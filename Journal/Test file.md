@@ -1,0 +1,1 @@
+El archivo .gitignore se borra al momento de descargar y volver a subir los cambios a Github
