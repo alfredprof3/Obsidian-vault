@@ -14,4 +14,5 @@ Animacion
 10. Exaggeration = **Exageración**
 11. Solid draw = **Dibujo sólido**
 12. Appeal = **Atractivo**
-## Estirar y encoger
+#### Estirar y encoger
+Este principio se basa en la acción de estirar al personaje logrando así un movimiento más pronunciado y marcado para luego encoger, es decir hacerlo lo más pequeño posible.
