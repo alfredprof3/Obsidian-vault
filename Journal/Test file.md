@@ -1,1 +1,1 @@
-El archivo .gitignore se borra al momento de descargar y volver a subir los cambios a Github
+Ya quedo todo configurado, ya no sincroniza la carpeta Journals y .obsidian
