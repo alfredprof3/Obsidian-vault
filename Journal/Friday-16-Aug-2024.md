@@ -1,0 +1,1 @@
+- Últimos cambios hechos desde la Asus Vivobook F1502ZA.
