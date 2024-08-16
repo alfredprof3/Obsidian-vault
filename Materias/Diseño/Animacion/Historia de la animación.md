@@ -8,11 +8,11 @@ La animación, fotografía, cine o cualquier medio de comunicación visual inici
 
 Así también en un artículo publicado en internet menciona lo siguiente:
 
-	Los primeros hombres prehistóricos, cuando trataban de expresar en sus pinturas rupestres a un animal que se estaba desplazando, solían superponer su figura en distintas posiciones. Así, si querían reflejar a un bisonte en plena carrera, empleaban en su representación varias posiciones de su cabeza y tronco, así como un número superior de extremidades de las que el animal poseía en realidad (FUOC, s. f.)
+> Los primeros hombres prehistóricos, cuando trataban de expresar en sus pinturas rupestres a un animal que se estaba desplazando, solían superponer su figura en distintas posiciones. Así, si querían reflejar a un bisonte en plena carrera, empleaban en su representación varias posiciones de su cabeza y tronco, así como un número superior de extremidades de las que el animal poseía en realidad (FUOC, s. f.)
 
 También en un artículo publicado por el sitio web MST Concept Design School menciona lo siguiente:
 
-	**En la Edad Media, el arte de las vidrieras también desempeñó un papel en el desarrollo de la animación.** Las vidrieras se usaban a menudo para contar historias de la Biblia, y las imágenes de estas ventanas a menudo representaban acción y movimiento. El uso de la luz y el color en las vidrieras también ayudó a crear la ilusión de movimiento, que luego se convertiría en una parte importante de la animación (MST Concept Design School, 2023).
+> En la Edad Media, el arte de las vidrieras también desempeñó un papel en el desarrollo de la animación. Las vidrieras se usaban a menudo para contar historias de la Biblia, y las imágenes de estas ventanas a menudo representaban acción y movimiento. El uso de la luz y el color en las vidrieras también ayudó a crear la ilusión de movimiento, que luego se convertiría en una parte importante de la animación (MST Concept Design School, 2023).
 
 Es aquí dónde la animación cobra su esencia, ya que al desarrollarla necesitamos de algo llamado **poses clave**. Estas posiciones clave representarían lo que el hombre de las cavernas dibujaba para dar a entender como eran los movimientos que hacían en aquel entonces.
 
