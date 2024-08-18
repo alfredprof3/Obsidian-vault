@@ -6,6 +6,8 @@ Animación
 
 La animación, fotografía, cine o cualquier medio de comunicación visual inicia con el descubrimiento de las pinturas rupestres. En aquella época el hombre de las cavernas busco plasmar parte de sus actividades cotidianas a través de dibujos que fueron elaborados a mano, con pinceles y pigmentos desarrollados por ellos mismos (National Geographic, s. f.).
 
+![Pinturas rupestres](https://humanidades.com/wp-content/uploads/2019/03/arte-rupestre-1-e1587689920381.jpg)
+
 Así también en un artículo publicado en internet menciona lo siguiente:
 
 > Los primeros hombres prehistóricos, cuando trataban de expresar en sus pinturas rupestres a un animal que se estaba desplazando, solían superponer su figura en distintas posiciones. Así, si querían reflejar a un bisonte en plena carrera, empleaban en su representación varias posiciones de su cabeza y tronco, así como un número superior de extremidades de las que el animal poseía en realidad (FUOC, s. f.)
