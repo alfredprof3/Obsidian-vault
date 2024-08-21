@@ -30,4 +30,5 @@ En 1981, Johnston y Thomas publicaron un libro titulado The Illusion of Life: Di
 
 Aunque la animación ha evolucionado en las décadas siguientes a la publicación de The Illusion of Life, sus fundamentos siguen estando vigentes y los 12 principios de la animación continúan aplicándose en todo tipo de áreas, desde las películas al diseño web.
 ### Línea del tiempo
-update
+
+<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=928698" frameborder="0" allowfullscreen></iframe>
