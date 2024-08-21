@@ -39,11 +39,9 @@
 - [Historia de la animación](https://www.mstschool.mx/post/historia-de-la-animacion)
 
 #### Timeline programs
-<iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=928698" frameborder="0" allowfullscreen></iframe>
+
 
 <iframe width="100%" height="432" src="https://miro.com/app/live-embed/uXjVKo6LrMM=/?moveToViewport=-8820,220,4573,2396&embedId=382662857126" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
-<iframe width="100%" height="432" src="https://miro.com/app/embed/uXjVKo6LrMM=/?pres=1&frameId=3458764597412061508&embedId=355369725472" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 #### Insertar imagenes
 - Si se pueden insertar imágenes en Obsidian desde los siguientes servicios de almacenamiento:
