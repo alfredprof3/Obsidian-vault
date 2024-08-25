@@ -28,13 +28,17 @@ La cámara oscura fue inventada en el siglo X por el físico y matemático de or
 
 ![Cámara oscura](https://www.photoion.co.uk/wp-content/uploads/2014/09/history_of_photography_camera-obscura-767x555@2x.jpg)
 
-<img src="https://www.photoion.co.uk/wp-content/uploads/2014/09/history_of_photography_camera-obscura-767x555@2x.jpg" alt="Cámara oscura" width="auto" height="500" />
-
 En el artículo de nombre _La animación. Evolución histórica_ retomado de la internet, se menciona lo siguiente en cuanto a la invención de la cámara oscura:
 
 > Descrita por el árabe Alhazen en el año 1039, las referencias más antiguas en Europa son del siglo XVI. Existe una ilustración de 1545 que la muestra siendo utilizada para observar un eclipse de 1544. Existen otras referencias de 1550 y una descripción de Leonardo Da Vinci, que se descubrió siglos después. Sin embargo, la primera descripción completa y exacta de la forma de trabajar de la cámara oscura corresponde al italiano Della Porta en 1558 (FUOC, s.f.).
 
-Epoca del renacimiento Leonardo Da Vinci
+#### Epoca del renacimiento
+
+Leonardo Da Vinci
+
+#### La linterna mágica
+
+Creada en 1603 Athanasius Kircher
 
 Dos animadores de Disney presentaron los 12 principios de la animación en 1981. Ollie Johnston y Frank Thomas los incluyeron en su libro The Illusion of Life: Disney Animation, publicado aquel año.
 
