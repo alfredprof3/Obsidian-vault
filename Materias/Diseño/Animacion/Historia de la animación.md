@@ -2,7 +2,7 @@ Animación
 
 <h1 align="center">Historia y línea del tiempo de la animación</h1>
 
-### La imagen
+### La imagen (prehistoria 40,000 años atrás)
 
 La animación, fotografía, cine o cualquier medio de comunicación visual inicia con el descubrimiento de las pinturas rupestres. En aquella época el hombre de las cavernas busco plasmar parte de sus actividades cotidianas a través de dibujos que fueron elaborados a mano, con pinceles y pigmentos desarrollados por ellos mismos (National Geographic, s. f.).
 
@@ -20,25 +20,77 @@ Es aquí dónde la animación cobra su esencia, ya que al desarrollarla necesita
 
 "El concepto «animación» tiene su origen en el latín «Anima» y cuyo significado es «Alma». Por lo tanto **animar consiste en dar alma a un personaje o un objeto de forma que parezca que este cobre vida**" (Cortés, 2024).
 
-### Inventos
+### Inventos (siglo X)
 
-#### La cámara oscura
+#### La cámara oscura (siglo X - XI)
 
-La cámara oscura fue inventada en el siglo X por el físico y matemático de origen árabe musulmán **Abū ‘Alī al-Hasan ibn al-Hasan ibn al-Háytham** (1 julio 965 - 6 marzo 1040) conocido en occidente como Alhacén o Alhazen que además, fue el creador del método científico y el que sentó las bases para dicha metodología.
+Es importante mencionar que desde la invención de la cámara oscura y la fotografía junto con las diferentes técnicas de dibujo, han sido los pilares importantes para el desarrollo de la animación clásica (cuadro a cuadro) en donde se involucran personajes como Walt Disney, con sus cintas cinematográficas de personajes legendarios, hasta proyectos de animación más avanzados y complejos, haciendo uso de los grandes avances en la tecnología computacional en pleno siglo XXI.
+
+La **cámara oscura** fue inventada en el siglo X por el físico y matemático de origen árabe musulmán **Abū ‘Alī al-Hasan ibn al-Hasan ibn al-Háytham** (1 julio 965 d.C. - 6 marzo 1040 d.C.) conocido en occidente como Alhacén o Alhazen que, además, fue el creador del método científico, sentando así las bases para dicha metodología (Colaboradores de Wikipedia, 2024).
 
 ![Cámara oscura](https://www.photoion.co.uk/wp-content/uploads/2014/09/history_of_photography_camera-obscura-767x555@2x.jpg)
+
+En el blog de HistoriadelCine.es define a la cámara oscura como una "máquina óptica compuesta de una caja cerrada, con una abertura por donde entra la luz, y que reproduce dentro de la caja una imagen invertida de los objetos que hay enfrente del agujero." (LaGuerre, 2024).
 
 En el artículo de nombre _La animación. Evolución histórica_ retomado de la internet, se menciona lo siguiente en cuanto a la invención de la cámara oscura:
 
 > Descrita por el árabe Alhazen en el año 1039, las referencias más antiguas en Europa son del siglo XVI. Existe una ilustración de 1545 que la muestra siendo utilizada para observar un eclipse de 1544. Existen otras referencias de 1550 y una descripción de Leonardo Da Vinci, que se descubrió siglos después. Sin embargo, la primera descripción completa y exacta de la forma de trabajar de la cámara oscura corresponde al italiano Della Porta en 1558 (FUOC, s.f.).
 
-#### Epoca del renacimiento
+#### Epoca del renacimiento (siglo XV - XVI)
 
-Leonardo Da Vinci
+##### Leonardo Da Vinci (1452 - 1519)
 
-#### La linterna mágica
+Como se menciona en el texto citado del artículo de _La animación. Evolución histórica_ en la epoca del renacimiento (siglo XV y XVI), Leonardo Da Vinci retomo los escritos de Alhacén e inspirado, desarrolló pinturas y dibujos a través de la cámara oscura. Además "la primera descripción completa e ilustrada sobre el funcionamiento de la cámara oscura aparece en los manuscritos de Leonardo Da Vinci" (Cámara Oscura - Wikiwand / Articles, s.f.).
 
-Creada en 1603 Athanasius Kircher
+##### Giovanni Battista della Porta (1535 - 1615)
+
+Como se menciona en el artículo del sitio Wikiwand menciona lo siguiente: 
+
+> Giovanni Battista della Porta describió la cámara oscura, la cual llamaba "obscurum cubiculum", en 1558 en la primera edición de su serie de libros _Magia Naturalis_. Battista sugirió la utilización de un espejo convexo para proyectar la imagen en un papel y utilizar esto como dibujo de ayuda (Cámara Oscura - Wikiwand / Articles, s.f.).
+
+##### Johannes Kepler (1571 - 1630)
+
+Según el artículo de Wikiwand Kepler hizo una serie de experimentos entre ellos fue la siguiente:
+
+> ...estudió el sol en su cámara oscura y observó una mancha solar, pero pensó que era Mercurio transitando frente al astro. En su obra de 1611 _Dioptrice_, Kepler describió cómo la imagen proyectada de la cámara oscura puede ser mejorada y revertida con una lente. Se cree que más adelante él utilizó un telescopio con tres lentes para revertir la imagen en la cámara oscura (Cámara Oscura - Wikiwand / Articles, s.f.).
+
+#### La linterna mágica (siglo XVII)
+
+Se habla que la linterna mágica fue creada por Athanasius Kircher que en 1646 hizo público su tratado de _Ars magna lucis et umbrae_ (La gran ciencia de la luz y la oscuridad), sin embargo en dónde si existe una referencia en cuanto al dispositivo es en el manuscrito de Christiaan Huygens en 1659 (Linterna mágica - Wikiwand / Articles, s.f.).
+
+En el artículo publicado por el blog de internet 20minutos.es describe la linterna mágica como "El invento se basaba en una especie de cámara oscura que proyectaba al exterior las imágenes pintadas sobre placas de vidrio. Se usaba una lámpara de gas por lo que el aparato requería una chimenea para el humo." (Garcia, 2020).
+
+#### La fotografía (siglo XVIII)
+
+Otro invento importante que aportó mucho al desarrollo de la animación fue la creación de la primera fotografía, y esta fue hecha por primera vez gracias al inventor francés Joseph Nicephore Niepce.
+
+##### Joseph Nicephore Niepce (1765 - 1833) y Louis Daguerre (1787 - 1851)
+
+En un artículo publicado por la enciclopedia humanidades menciona lo siguiente acerca de la fotografía: 
+
+> Las primeras imágenes fotográficas obtenidas en la historia son obra del francés Nicéphore Niepce, científico que logró resultados mediante **la prolongada exposición a la luz de placas de peltre cubiertas en betún**, dentro de una cámara oscura. La primera imagen obtenida así fue _Vista desde una ventana en Le Gras_, de 1826, que tomó ocho horas de exposición a plena luz del día (Equipo editorial, Etcé, 2023).
+
+Así también para esas fechas Louis-Jacques-Mandé Daguerre colaboró con Nicephore Niepce para perfeccionar su invento de la fotografía, creando así el famoso Daguerrotipo. "**Daguerre añadió al mecanismo una placa de plata pulida**, sobre la cual se producían las impresiones, reduciendo así enormemente el tiempo de exposición" (Equipo editorial, Etcé, 2023).
+
+Por lo tanto la fotografía podría definirse de la siguiente forma:
+
+> Como su nombre lo sugiere (del griego _photos_, “luz” y _graphos_, “dibujo, escritura”), la fotografía es **la técnica y el arte de obtener imágenes fijas y duraderas** a través de la proyección de la luz. Esto se logra gracias a materiales que reaccionan químicamente a ella o, más recientemente, en dispositivos electrónicos sensibles a ella (Equipo editorial, Etcé,2023).
+
+##### John Ayrton Paris (1785 - 1856)
+
+Fue un médico británico que creo el traumatropo en la cual:
+
+> consistía en un pedazo de cartulina con pequeñas poerforaciones en ambos lados por los cuales se introducía un pedazo de cuerda... Al apretar la cuerda del traumatropo, la cartulina se movia del tal suerte que esto generaba una ilusión óptica: la superposición de las dos imágenes y la ilusión de movimiento (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+
+##### Joseph Plateu (1804 - 1883)
+
+Otro inventor importante que aporto sus conocimientos para que la animación fuera dando sus primeras apariciones en el mundo fue el físico belga Plateu.
+
+> Se le atribuye a Plateu la creación del fenaquistiscopio en 1832. Este aparato es considerado como uno de los primeros dispositivos que juegan con la superposición continua de imágenes y la ilusión del movimiento que se produce en la retina. Plateu descubre que el número de imágenes para producir una óptima ilusión de movimiento es de 16, número que los cineastas utilizarán después en los fotogramas de las primeras películas (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+
+##### William George Horner (1786 - 1837)
+
+Gracias a la aportación de Plateu con el fenaquisticopio, Horner "en la historia de la cinematografía ocupa un lugar importante porque se le atribuye la invención del zootropo, hacia el año de 1834..." (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
 
 Dos animadores de Disney presentaron los 12 principios de la animación en 1981. Ollie Johnston y Frank Thomas los incluyeron en su libro The Illusion of Life: Disney Animation, publicado aquel año.
 
@@ -52,3 +104,15 @@ Aunque la animación ha evolucionado en las décadas siguientes a la publicació
 ### Línea del tiempo
 
 <iframe width="100%" height="400" src="https://time.graphics/embed?v=1&id=928698" frameborder="0" allowfullscreen></iframe>
+
+### Referencias
+
+- Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM. (2020, 24 julio). _Leonardo da Vinci - MUVAC-Museo Virtual de Aparatos Cinematográficos_. MUVAC-Museo Virtual de Aparatos Cinematográficos. https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/leonardo-da-vinci/
+- Martínez, C. (2024, 13 febrero). _La cámara oscura: descubre los orígenes de la fotografía._ Aprende Audiovisual. https://aprendeaudiovisual.com/fotografia/historia/camara-oscura/
+- Colaboradores de Wikipedia. (2024, 25 agosto). _Cámara oscura_. Wikipedia, la Enciclopedia Libre. https://es.m.wikipedia.org/wiki/C%C3%A1mara_oscura
+- LaGuerre, A. (2024, 1 enero). _Cámara oscura: Qué es, cuando se inventó y su relación con el cine_. HistoriaDelCine.es. https://historiadelcine.es/fotografia/camara-oscura-que-es-cuando-se-invento-cine/
+- MST Concept Design School. (2023, 9 enero). _Historia de la animación._ MST Design Academy. https://www.mstschool.mx/post/historia-de-la-animación
+- Trilnick, C. (2024, 20 agosto). _Linterna mágica_. IDIS. https://proyectoidis.org/linterna-magica/
+- Etecé, Equipo editorial (23 de enero de 2023). _Historia de la Fotografía_. Enciclopedia Humanidades. Recuperado el 20 de agosto de 2024 de https://humanidades.com/historia-de-la-fotografia/.
+- Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM. (2020, 24 julio). _Joseph Plateu - MUVAC-Museo Virtual de Aparatos Cinematográficos._ MUVAC - Museo Virtual de Aparatos Cinematográficos. https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/joseph-plateu/
+- Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM. (2020, 24 julio). _John Ayrton Paris - MUVAC-Museo Virtual de Aparatos Cinematográficos._ MUVAC - Museo Virtual de Aparatos Cinematográficos. https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/john-ayrton-paris/

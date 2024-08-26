@@ -1,10 +1,14 @@
 ## Actualización
 
-- Avance hasta la invención de la cámara oscura
+- Avance hasta la invención del traumatropo
 
 ## Pendientes
 
 - [ ] Terminar la línea del tiempo de la historia de la animación
+- [ ] Revisar plugins para pendientes o tasks
+- [ ] Poner las imágenes de los inventos
+- [ ] Tomar la información del MUVAC filmoteca de UNAM para los inventos próximos a describir
+- [ ] Sigue el praxinoscopio, thomas alva edison, george eastman, george melies y hermanos lumiere
 
 ## Notas
 #### Enlaces sobre la historia de la animación:
@@ -12,6 +16,7 @@
 - [Animación. Qué es, ténicas, tipos y programas](https://www.notodoanimacion.es/que-es-la-animacion-tipos-y-tecnicas/)
 - [La historia de la animación: desde las técnicas tradicionales a la animación digital](https://www.esdesignbarcelona.com/actualidad/animacion/historia-animacion)
 - [Historia de la animación](https://www.mstschool.mx/post/historia-de-la-animacion)
+- [Precursores del cine](https://museovirtual.filmoteca.unam.mx/temas)
 
 #### Timeline programs
 
