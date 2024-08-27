@@ -10,6 +10,12 @@
 - [ ] Tomar la información del MUVAC filmoteca de UNAM para los inventos próximos a describir
 - [ ] Sigue el praxinoscopio, thomas alva edison, george eastman, george melies y hermanos lumiere
 
+## Journals
+
+¿Qué es la distancia hiperfocal?
+¿Para que sirve la distancia hiperfocal?
+¿Cómo se calcula la distancia hiperfocal?
+
 ## Notas
 #### Enlaces sobre la historia de la animación:
 - [La animación. Evolución histórica.](https://openaccess.uoc.edu/bitstream/10609/52985/2/Animaci%C3%B3n%202D%20y%203D_M%C3%B3dulo1_La%20animaci%C3%B3n.%20Evoluci%C3%B3n%20hist%C3%B3rica.pdf)
