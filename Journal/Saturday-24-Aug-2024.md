@@ -1,3 +1,6 @@
+
+# Hola Dayana
+
 ## Actualización
 
 - Avance hasta la invención del traumatropo
@@ -9,6 +12,12 @@
 - [ ] Poner las imágenes de los inventos
 - [ ] Tomar la información del MUVAC filmoteca de UNAM para los inventos próximos a describir
 - [ ] Sigue el praxinoscopio, thomas alva edison, george eastman, george melies y hermanos lumiere
+
+## Journals
+
+¿Qué es la distancia hiperfocal?
+¿Para que sirve la distancia hiperfocal?
+¿Cómo se calcula la distancia hiperfocal?
 
 ## Notas
 #### Enlaces sobre la historia de la animación:
