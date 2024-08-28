@@ -92,6 +92,42 @@ Otro inventor importante que aporto sus conocimientos para que la animación fue
 
 Gracias a la aportación de Plateu con el fenaquisticopio, Horner "en la historia de la cinematografía ocupa un lugar importante porque se le atribuye la invención del zootropo, hacia el año de 1834..." (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
 
+Se menciona tambiéń que "el zootropo se distinguía del fenaquistiscopio porque poseía la ventaja de ser más manejable al mismo tiempo que posibilitaba la observación de un mayor número de individuos"f (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+
+##### Charles-Émile Reynaud (1844 - 1918)
+
+Fue un mécanico e inventor francés que creo el praxinoscopio en el año de 1876. En el artículo del Museo Virtual de Aparatos Cinematográficos se menciona lo siguiente:
+
+> Desde 1892 y durante los siguientes diez años, presentará sus famosas _pantomimas luminosas_ en el Musée Grévin, entre las cuales destacarán _Pauvre Pierrot_ (que consta de poco más de 500 imágenes que él mismo pintó, con una duración de aproximadamente 15 minutos) y _Autour d’une cabine._ Con el _teatro óptico_, se empieza a esbozar lo que en un próximo futuro será el cine: un espectáculo para grandes audiencias y, por lo tanto, una fuente de ingreso económico (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+
+##### Thomas Alva Edison (1847 - 1931)
+
+Fue un inventor y empresario estadounidense del siglo XIX. Además "En asociación con William K. L. Dickson, construyó dos dispositivos: el _kinetógrafo_ y el _quinetoscopio_" (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+
+Según el sitio Museo Virtual de Aparatos Cinematográficos menciona lo siguiente:
+
+> El kinematográfo es considerado por algunos historiadores del cine como el precedente de la cámara cinematográfica. Este si bien poseía la habilidad de grabar, no estaba capacitado para reproducir las imágenes. El quinetoscopio, por otra parte, resultó mucho más redituable en su comercialización. Este era, a grandes rasgos, una máquina en forma de caja que contenía, en su interior, un mecanismo que movilizaba una cinta que pasaba encima de una luz eléctrica (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+
+##### George Eastman (1854 - 1932)
+
+Inventor y empresario quien fundó la empresa Kodak, empresa que comercializó la película de celuloide, gracias a este invento se pudieron proyectar las primeras imágenes de lo que hoy en día es el cine.
+
+> En 1889 la empresa pone en circulación la _película de celuloide_, fundamental para los experimentos que se llevarán a cabo durante la siguiente década en el ámbito fílmico. Hay que recordar que los primeros proyectores se valen de este tipo de material para su funcionamiento. Thomas Alva Edison, quien por esos años se encontraba diseñando y mejorando el _quinetoscopio_, se volvió uno de los principales compradores (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+
+##### Auguste Lumiere (1862 - 1954) y Louis Lumiere (1864 - 1948)
+
+Inventores y empresarios franceses que desarrollaron su más grande éxito; el cinematográfo.
+
+> En 1894 el señor Lumière viaja a París y conoce el **_quinetoscopio_**. Al regresar a Lyon les cuenta a sus hijos de la experiencia que tuvo con el invento de Edison y los alienta a hacer algo mejor. La familia se pondrá a trabajar en su propio aparato y será en febrero del siguiente año cuando patenten el _cinematógrafo_. En una noche de insomnio, Louis Lumière ideó la manivela que hacía posible el arrastre de la película perforada. Lo cierto es que si aceptamos que fue Louis quien desarrolló el mecanismo en mayor medida, su hermano Auguste también jugó un papel importante al ponerse en contacto con Alfred Montelni, científico y optometrista francés que se encargaría de diseñar los focos para el proyector. (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+
+Este invento revolucionó totalmente en mundo de la proyección de las imágenes. Es aquí donde nace formalmente el **cine**:
+
+> El dispositivo de los hermanos Lumière, además de ser capaz de proyectar imágenes en movimiento, también podía grabar y producir copias por medio de una manivela que se movía. Su tamaño y ligereza fueron algunos de los atractivos que ofrecía este aparato. Otra de las ventajas que proporcionaba en comparación al invento de Edison era la calidad de las imágenes. (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+
+En el siguiente enlace sobre la [**historia del cine**](https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/hermanos-lumiere/) se puede encontrar más acerca de los hermanos Lumiere.
+
+SIGUIENTE APARTADO.
+
 Dos animadores de Disney presentaron los 12 principios de la animación en 1981. Ollie Johnston y Frank Thomas los incluyeron en su libro The Illusion of Life: Disney Animation, publicado aquel año.
 
 Ollie Johnston y Frank Thomas son los creadores de estos principios. Fueron dos de los famosos Nueve Ancianos de Disney (incluso el mismísimo Walt Disney los llamaba así). Este grupo constituyó el grupo de animadores fundamental del estudio.
