@@ -23,6 +23,7 @@
 - [La historia de la animación: desde las técnicas tradicionales a la animación digital](https://www.esdesignbarcelona.com/actualidad/animacion/historia-animacion)
 - [Historia de la animación](https://www.mstschool.mx/post/historia-de-la-animacion)
 - [Precursores del cine](https://museovirtual.filmoteca.unam.mx/temas)
+- [History of animation](https://history-of-animation.webflow.io/)
 
 #### Timeline programs
 
