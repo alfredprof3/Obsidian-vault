@@ -1,9 +1,6 @@
-
-# Hola Dayana
-
 ## Actualización
 
-- Avance hasta la invención del traumatropo
+- Avance hasta los hermanos Lumiere
 
 ## Pendientes
 
@@ -11,7 +8,7 @@
 - [ ] Revisar plugins para pendientes o tasks
 - [ ] Poner las imágenes de los inventos
 - [ ] Tomar la información del MUVAC filmoteca de UNAM para los inventos próximos a describir
-- [ ] Sigue el praxinoscopio, thomas alva edison, george eastman, george melies y hermanos lumiere
+- [x] Sigue el praxinoscopio, thomas alva edison, george eastman, george melies y hermanos lumiere
 
 ## Journals
 
