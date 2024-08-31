@@ -6,7 +6,7 @@
 
 - [ ] Terminar la línea del tiempo de la historia de la animación
 - [ ] Revisar plugins para pendientes o tasks
-- [ ] Poner las imágenes de los inventos 🆔 l5feaa
+- [ ] Poner las imágenes de los inventos
 - [ ] Tomar la información del MUVAC filmoteca de UNAM para los inventos próximos a describir
 - [x] Sigue el praxinoscopio, thomas alva edison, george eastman, george melies y hermanos lumiere
 
