@@ -1,12 +1,12 @@
 ## Actualización
 
-- Avance hasta los hermanos Lumiere
+- Actualicé la introducción 
 
 ## Pendientes
 
 - [ ] Terminar la línea del tiempo de la historia de la animación
 - [ ] Revisar plugins para pendientes o tasks
-- [ ] Poner las imágenes de los inventos
+- [ ] Poner las imágenes de los inventos 🆔 l5feaa
 - [ ] Tomar la información del MUVAC filmoteca de UNAM para los inventos próximos a describir
 - [x] Sigue el praxinoscopio, thomas alva edison, george eastman, george melies y hermanos lumiere
 
@@ -23,6 +23,7 @@
 - [La historia de la animación: desde las técnicas tradicionales a la animación digital](https://www.esdesignbarcelona.com/actualidad/animacion/historia-animacion)
 - [Historia de la animación](https://www.mstschool.mx/post/historia-de-la-animacion)
 - [Precursores del cine](https://museovirtual.filmoteca.unam.mx/temas)
+- [History of animation](https://history-of-animation.webflow.io/)
 
 #### Timeline programs
 

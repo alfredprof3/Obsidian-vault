@@ -24,13 +24,13 @@ Es aquí dónde la animación cobra su esencia, ya que al desarrollarla necesita
 
 #### La cámara oscura (siglo X - XI)
 
-Es importante mencionar que desde la invención de la cámara oscura y la fotografía junto con las diferentes técnicas de dibujo, han sido los pilares importantes para el desarrollo de la animación clásica (cuadro a cuadro) en donde se involucran personajes como Walt Disney, con sus cintas cinematográficas de personajes legendarios, hasta proyectos de animación más avanzados y complejos, haciendo uso de los grandes avances en la tecnología computacional en pleno siglo XXI.
+Es importante mencionar que desde la invención de la cámara oscura y la fotografía, junto con las diferentes técnicas de dibujo, han sido pilares importantes para el desarrollo de la animación clásica (cuadro a cuadro; frame by frame). Uno de los más grandes referentes de ésta técnica es el reconocido Walt Disney, con sus cintas cinematográficas de personajes legendarios como cenicienta blanca nieves, la sirenita y mucho más, hasta proyectos de animación más avanzados y complejos, gracias a los grandes avances en la tecnología computación hoy en día se desarrollan animaciones haciendo uso de programas 3D mediante los gráficos por computadora y más recientemente, con la inteligencia artificial. 
 
 La **cámara oscura** fue inventada en el siglo X por el físico y matemático de origen árabe musulmán **Abū ‘Alī al-Hasan ibn al-Hasan ibn al-Háytham** (1 julio 965 d.C. - 6 marzo 1040 d.C.) conocido en occidente como Alhacén o Alhazen que, además, fue el creador del método científico, sentando así las bases para dicha metodología (Colaboradores de Wikipedia, 2024).
 
 ![Cámara oscura](https://www.photoion.co.uk/wp-content/uploads/2014/09/history_of_photography_camera-obscura-767x555@2x.jpg)
 
-En el blog de HistoriadelCine.es define a la cámara oscura como una "máquina óptica compuesta de una caja cerrada, con una abertura por donde entra la luz, y que reproduce dentro de la caja una imagen invertida de los objetos que hay enfrente del agujero." (LaGuerre, 2024).
+En el blog de HistoriadelCine.es definen a la cámara oscura como una "máquina óptica compuesta de una caja cerrada, con una abertura por donde entra la luz, y que reproduce dentro de la caja una imagen invertida de los objetos que hay enfrente del agujero." (LaGuerre, 2024).
 
 En el artículo de nombre _La animación. Evolución histórica_ retomado de la internet, se menciona lo siguiente en cuanto a la invención de la cámara oscura:
 
@@ -124,7 +124,9 @@ Este invento revolucionó totalmente en mundo de la proyección de las imágenes
 
 > El dispositivo de los hermanos Lumière, además de ser capaz de proyectar imágenes en movimiento, también podía grabar y producir copias por medio de una manivela que se movía. Su tamaño y ligereza fueron algunos de los atractivos que ofrecía este aparato. Otra de las ventajas que proporcionaba en comparación al invento de Edison era la calidad de las imágenes. (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
 
-En el siguiente enlace sobre la [**historia del cine**](https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/hermanos-lumiere/) se puede encontrar más acerca de los hermanos Lumiere.
+En el siguiente enlace acerca de la [**historia del cine**](https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/hermanos-lumiere/) se puede encontrar más información acerca de los hermanos Lumiere.
+
+Es hasta este punto histórico que nace formalmente el cine y con ello, se desarrollan producciones cinematográficas qué darán paso a la nueva era del entretenimiento, bautizando a dicha industria como el séptimo arte.
 
 SIGUIENTE APARTADO.
 
