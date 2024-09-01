@@ -1,6 +1,6 @@
 ## Actualización
 
-- Continué con la línea del tiempo y llegue hasta Winsor McCay
+- Avance hasta la Warner Bros. Tomar la información de AcademiaLab y del documento del PDF.
 
 ## Pendientes
 
