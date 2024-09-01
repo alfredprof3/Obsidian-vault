@@ -96,17 +96,17 @@ Se menciona tambiéń que "el zootropo se distinguía del fenaquistiscopio porqu
 
 ##### Charles-Émile Reynaud (1844 - 1918)
 
-Fue un mécanico e inventor francés que creo el praxinoscopio en el año de 1876. En el artículo del Museo Virtual de Aparatos Cinematográficos se menciona lo siguiente:
+Fue un mécanico e inventor francés que creo el praxinoscopio en el año de 1876. En el artículo del Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM (2020) se menciona lo siguiente:
 
-> Desde 1892 y durante los siguientes diez años, presentará sus famosas _pantomimas luminosas_ en el Musée Grévin, entre las cuales destacarán _Pauvre Pierrot_ (que consta de poco más de 500 imágenes que él mismo pintó, con una duración de aproximadamente 15 minutos) y _Autour d’une cabine._ Con el _teatro óptico_, se empieza a esbozar lo que en un próximo futuro será el cine: un espectáculo para grandes audiencias y, por lo tanto, una fuente de ingreso económico (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+> Desde 1892 y durante los siguientes diez años, presentará sus famosas _pantomimas luminosas_ en el Musée Grévin, entre las cuales destacarán _Pauvre Pierrot_ (que consta de poco más de 500 imágenes que él mismo pintó, con una duración de aproximadamente 15 minutos) y _Autour d’une cabine._ Con el _teatro óptico_, se empieza a esbozar lo que en un próximo futuro será el cine: un espectáculo para grandes audiencias y, por lo tanto, una fuente de ingreso económico.
 
 ##### Thomas Alva Edison (1847 - 1931)
 
 Fue un inventor y empresario estadounidense del siglo XIX. Además "En asociación con William K. L. Dickson, construyó dos dispositivos: el _kinetógrafo_ y el _quinetoscopio_" (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
 
-Según el sitio Museo Virtual de Aparatos Cinematográficos menciona lo siguiente:
+Según el sitio Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM (2020) menciona lo siguiente:
 
-> El kinematográfo es considerado por algunos historiadores del cine como el precedente de la cámara cinematográfica. Este si bien poseía la habilidad de grabar, no estaba capacitado para reproducir las imágenes. El quinetoscopio, por otra parte, resultó mucho más redituable en su comercialización. Este era, a grandes rasgos, una máquina en forma de caja que contenía, en su interior, un mecanismo que movilizaba una cinta que pasaba encima de una luz eléctrica (Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM, 2020).
+> El kinematográfo es considerado por algunos historiadores del cine como el precedente de la cámara cinematográfica. Este si bien poseía la habilidad de grabar, no estaba capacitado para reproducir las imágenes. El quinetoscopio, por otra parte, resultó mucho más redituable en su comercialización. Este era, a grandes rasgos, una máquina en forma de caja que contenía, en su interior, un mecanismo que movilizaba una cinta que pasaba encima de una luz eléctrica.
 
 ##### George Eastman (1854 - 1932)
 
@@ -146,9 +146,19 @@ Fue un dibujante y animador francés nacido en París considerado como el "Padre
 
 Fue un dibujante y animador estadounidense que fue reconocido por su tira comic _Little Nemo_ y su película animada _Gertie The Dinosaur_ presentada en 1914.
 
-En un artículo publicado en el sitio de AcademiaLab se describe lo siguiente con relación de la película de Gertie The Dinosaur:
+En un artículo publicado en el sitio de AcademiaLab (2024) se describe lo siguiente con relación de la película de Gertie The Dinosaur:
 
 > Gertie the Dinosaur es un cortometraje animado de 1914 del dibujante y animador estadounidense Winsor McCay. Es la primera película animada que presenta un dinosaurio. McCay utilizó por primera vez la película ante audiencias en vivo como una parte interactiva de su acto de vodevil; la juguetona e infantil Gertie hacía trucos a las órdenes de su amo. El empleador de McCay, William Randolph Hearst, restringió las actividades de vodevil de McCay, por lo que McCay agregó una secuencia introductoria de acción en vivo a la película para su estreno en cines y pasó a llamarse Winsor McCay, el famoso dibujante y Gertie. McCay abandonó una secuela, Gertie on Tour (c. 1921), después de producir alrededor de un minuto de metraje.
+
+##### Otto James Messmer (1892 - 1983)
+
+Reconocido animador estadounidense que desarrolló tiras comicas y dibujos animados del gato Félix, que fueron producidos por el estudio Pat Sullivan (AcademiaLab, 2024).
+
+Según el portal AcademiaLab (2024), menciona lo siguiente acerca del gato Félix:
+
+> **Felix the Cat** es un personaje de dibujos animados creado en 1919 por Pat Sullivan y Otto Messmer durante la era del cine mudo. Un joven gato negro antropomórfico con ojos blancos, cuerpo negro y una sonrisa gigante, a menudo se lo considera uno de los personajes de dibujos animados más reconocidos en la historia del cine. Felix fue el primer personaje animal completamente realizado en la historia de la animación cinematográfica estadounidense.
+
+
 
 Dos animadores de Disney presentaron los 12 principios de la animación en 1981. Ollie Johnston y Frank Thomas los incluyeron en su libro The Illusion of Life: Disney Animation, publicado aquel año.
 
@@ -175,3 +185,6 @@ Aunque la animación ha evolucionado en las décadas siguientes a la publicació
 - Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM. (2020, 24 julio). _Joseph Plateu - MUVAC-Museo Virtual de Aparatos Cinematográficos._ MUVAC - Museo Virtual de Aparatos Cinematográficos. https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/joseph-plateu/
 - Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM. (2020, 24 julio). _John Ayrton Paris - MUVAC-Museo Virtual de Aparatos Cinematográficos._ MUVAC - Museo Virtual de Aparatos Cinematográficos. https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/john-ayrton-paris/
 - Pérez, A. (2022, November 25). _La historia de la animación: desde las técnicas tradicionales a la animación digital_. ESDESIGN. https://www.esdesignbarcelona.com/actualidad/animacion/historia-animacion
+- Academia Lab. (2024). Gertie el dinosaurio. _Enciclopedia_. Revisado el 1 de septiembre del 2024. https://academia-lab.com/enciclopedia/gertie-el-dinosaurio/
+- Academia Lab. (2024). Otto Mesmer. _Enciclopedia_. Revisado el 1 de septiembre del 2024. https://academia-lab.com/enciclopedia/otto-mesmer/
+- Academia Lab. (2024). El gato Félix. _Enciclopedia_. Revisado el 1 de septiembre del 2024. https://academia-lab.com/enciclopedia/el-gato-felix/

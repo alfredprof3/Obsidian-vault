@@ -9,10 +9,10 @@
 	- [ ] task
 	- [ ] natural language dates
 	- [ ] sheet plus
-- [ ] Poner las imágenes de los inventos. Estas imágenes están en el sitio de MUVAC filmoteca de UNAM
+- [ ] Poner las imágenes de los inventos. Estas imágenes están en el sitio de MUVAC filmoteca de UNAM. Hay una galeria en 3D en sketchfab.
 - [x] Tomar la información del MUVAC filmoteca de UNAM para los inventos próximos a describir
 - [x] Sigue el praxinoscopio, thomas alva edison, george eastman, george melies y hermanos lumiere
-- [ ] Poner la cita de AcademiaLab
+- [x] Poner la cita de AcademiaLab
 
 ## Notas
 #### Enlaces sobre la historia de la animación:
