@@ -2,7 +2,7 @@ Animación
 
 <h1 align="center">Historia y línea del tiempo de la animación</h1>
 
-### La imagen (prehistoria 40,000 años atrás)
+### La imagen (prehistoria, 40,000 años atrás)
 
 La animación, fotografía, cine o cualquier medio de comunicación visual inicia con el descubrimiento de las pinturas rupestres. En aquella época el hombre de las cavernas busco plasmar parte de sus actividades cotidianas a través de dibujos que fueron elaborados a mano, con pinceles y pigmentos desarrollados por ellos mismos (National Geographic, s. f.).
 
@@ -128,7 +128,27 @@ En el siguiente enlace acerca de la [**historia del cine**](https://museovirtual
 
 Es hasta este punto histórico que nace formalmente el cine y con ello, se desarrollan producciones cinematográficas qué darán paso a la nueva era del entretenimiento, bautizando a dicha industria como el séptimo arte.
 
-SIGUIENTE APARTADO.
+### Siglo XX
+
+Gracias a los avances en la fotografía y en el cine, fue posible apreciar la proyección de imágenes en movimiento, dando paso al surgimiento de la animación en su forma más simple (FUOC, s. f.).
+
+##### James Stuart Blackton (1875 - 1941)
+
+_Humorous Phases of Funny Faces_ es considera la primera animación en el mundo realizada por el director y productor del cine mudo, James Stuart Blackton en el año de 1906 (FUOC, s. f.). En el documento digital de _La animación. Evolución histórica_ mencionan lo siguiente: 
+
+> Stuart Blackton realizó en 1906 un cortometraje titulado Humourous Phases of Funny Faces por el proceso de dibujar caras cómicas en una pizarra y fotografiarlas, para borrarlas y dibujar de nuevo otra fase de la expresión facial. Este efecto de stop motion (‘movimiento detenido’) asombraba al público de la época al conseguir que los dibujos adquirieran vida (FUOC, s. f.).
+
+##### Émile Cohl (1857 - 1938)
+
+Fue un dibujante y animador francés nacido en París considerado como el "Padre del dibujo animado". Creó el primer dibujo animado el cual sería mostrado en un proyector de cine de nombre; Fantasmagorie, proyectada por primera vez el 17 de agosto de 1908 (Pérez, 2022).
+
+##### Winsor McCay (1866 - 1934)
+
+Fue un dibujante y animador estadounidense que fue reconocido por su tira comic _Little Nemo_ y su película animada _Gertie The Dinosaur_ presentada en 1914.
+
+En un artículo publicado en el sitio de AcademiaLab se describe lo siguiente con relación de la película de Gertie The Dinosaur:
+
+> Gertie the Dinosaur es un cortometraje animado de 1914 del dibujante y animador estadounidense Winsor McCay. Es la primera película animada que presenta un dinosaurio. McCay utilizó por primera vez la película ante audiencias en vivo como una parte interactiva de su acto de vodevil; la juguetona e infantil Gertie hacía trucos a las órdenes de su amo. El empleador de McCay, William Randolph Hearst, restringió las actividades de vodevil de McCay, por lo que McCay agregó una secuencia introductoria de acción en vivo a la película para su estreno en cines y pasó a llamarse Winsor McCay, el famoso dibujante y Gertie. McCay abandonó una secuela, Gertie on Tour (c. 1921), después de producir alrededor de un minuto de metraje.
 
 Dos animadores de Disney presentaron los 12 principios de la animación en 1981. Ollie Johnston y Frank Thomas los incluyeron en su libro The Illusion of Life: Disney Animation, publicado aquel año.
 
@@ -154,3 +174,4 @@ Aunque la animación ha evolucionado en las décadas siguientes a la publicació
 - Etecé, Equipo editorial (23 de enero de 2023). _Historia de la Fotografía_. Enciclopedia Humanidades. Recuperado el 20 de agosto de 2024 de https://humanidades.com/historia-de-la-fotografia/.
 - Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM. (2020, 24 julio). _Joseph Plateu - MUVAC-Museo Virtual de Aparatos Cinematográficos._ MUVAC - Museo Virtual de Aparatos Cinematográficos. https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/joseph-plateu/
 - Museo Virtual de Aparatos Cinematográficos - Filmoteca UNAM. (2020, 24 julio). _John Ayrton Paris - MUVAC-Museo Virtual de Aparatos Cinematográficos._ MUVAC - Museo Virtual de Aparatos Cinematográficos. https://museovirtual.filmoteca.unam.mx/temas-cine/precursores-del-cine/john-ayrton-paris/
+- Pérez, A. (2022, November 25). _La historia de la animación: desde las técnicas tradicionales a la animación digital_. ESDESIGN. https://www.esdesignbarcelona.com/actualidad/animacion/historia-animacion
