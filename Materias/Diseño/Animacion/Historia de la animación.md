@@ -210,6 +210,10 @@ Hace su aparición uno de los más famosos e icónico personaje animado, **Micke
 
 Para el año 1923 cuatro hermanos de nombre Harry, Albert, Sam y Jack Warner fundaron la hoy ya conocida compañía de entretenimiento **Warner Bros** (AcademiaLab, 2024).
 
+De 1930 a 1933 dos ex alumnos de Disney, Hugh Harman y Rudolf Ising, desarrollaron para Warner Bros producciones de animaciones de musicales. También crearon al primer personaje Bosko que fue presentada en la caricatura de los Looney Tunes, Sinkin' in the Bathtub, creando también Merrie Melodies en 1931 (AcademiaLab, 2024).
+
+> En 1935, Avery dirigió dibujos animados de Porky Pig que establecieron al personaje como la primera estrella animada del estudio. Además de Porky, Daffy Duck (que debutó en 1937 en Porky's Duck Hunt), Elmer Fudd (Elmer's Candid Camera, 1940), Bugs Bunny (A Wild Hare, 1940) y Tweety (A Tale of Two Kitties, 1942) alcanzarían el poder de las estrellas (AcademiaLab, 2024). 
+
 CONTINUA
 
 Dos animadores de Disney presentaron los 12 principios de la animación en 1981. Ollie Johnston y Frank Thomas los incluyeron en su libro The Illusion of Life: Disney Animation, publicado aquel año.
