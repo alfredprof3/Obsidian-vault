@@ -214,6 +214,10 @@ De 1930 a 1933 dos ex alumnos de Disney, Hugh Harman y Rudolf Ising, desarrollar
 
 > En 1935, Avery dirigió dibujos animados de Porky Pig que establecieron al personaje como la primera estrella animada del estudio. Además de Porky, Daffy Duck (que debutó en 1937 en Porky's Duck Hunt), Elmer Fudd (Elmer's Candid Camera, 1940), Bugs Bunny (A Wild Hare, 1940) y Tweety (A Tale of Two Kitties, 1942) alcanzarían el poder de las estrellas (AcademiaLab, 2024). 
 
+###### Año 1940
+
+Se crea Tom y Jerry bajo la casa productora Metro Goldwyn Mayer (MGM)...
+
 CONTINUA
 
 Dos animadores de Disney presentaron los 12 principios de la animación en 1981. Ollie Johnston y Frank Thomas los incluyeron en su libro The Illusion of Life: Disney Animation, publicado aquel año.
