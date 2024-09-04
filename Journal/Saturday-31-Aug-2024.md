@@ -1,6 +1,6 @@
 ## Actualización
 
-- Avance hasta la MGM con Tom y Jerry.
+- Avance hasta el año 1944. Falta poner del año 1950 en adelante (Hanna-Barbera "Los Picapiedra")
 
 ## Pendientes
 

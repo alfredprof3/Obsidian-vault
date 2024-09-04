@@ -214,9 +214,17 @@ De 1930 a 1933 dos ex alumnos de Disney, Hugh Harman y Rudolf Ising, desarrollar
 
 > En 1935, Avery dirigió dibujos animados de Porky Pig que establecieron al personaje como la primera estrella animada del estudio. Además de Porky, Daffy Duck (que debutó en 1937 en Porky's Duck Hunt), Elmer Fudd (Elmer's Candid Camera, 1940), Bugs Bunny (A Wild Hare, 1940) y Tweety (A Tale of Two Kitties, 1942) alcanzarían el poder de las estrellas (AcademiaLab, 2024). 
 
+##### Metro Goldwyn Mayer (MGM)
+
 ###### Año 1940
 
-Con la creación de Disney y Warner Bros en los años treinta, la Metro Goldwyn Mayer (MGM) a inicios de los años cuarenta, desarrolló una animación que sería una gran hit para la posteridad. Dirigida por Bill Hanna y Joe Barbera nace la que por los siguientes dieciséis años conseguiría siete Oscars de la academia, estamos hablando nada más y nada menos que de Tom y Jerry (FUOC, s. f.).
+Con la creación de Disney y Warner Bros en los años treinta, la Metro Goldwyn Mayer (MGM) a inicios de los años cuarenta, desarrolló una animación que sería una gran hit para la posteridad. Dirigida por Bill Hanna y Joe Barbera nace la que por los siguientes dieciséis años conseguiría siete Oscars de la academia, estamos hablando nada más y nada menos que de **Tom y Jerry** (FUOC, s. f.).
+
+###### Año 1944
+
+Años más tarde, esta misma casa productora introduce el concepto de interacción entre personas y dibujos animados, en dónde en una escena de un bailarín norteamericano de nombre Gene Kelly, baila con el ratón Jerry (FUOC, s. f.).
+
+
 
 CONTINUA
 
