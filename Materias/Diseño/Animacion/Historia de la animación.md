@@ -224,7 +224,10 @@ Con la creación de Disney y Warner Bros en los años treinta, la Metro Goldwyn 
 
 Años más tarde, esta misma casa productora introduce el concepto de interacción entre personas y dibujos animados, en dónde en una escena de un bailarín norteamericano de nombre Gene Kelly, baila con el ratón Jerry (FUOC, s. f.).
 
+##### Animación por TV
+###### Año 1950
 
+Inicia las series de animación en TV...
 
 CONTINUA
 
