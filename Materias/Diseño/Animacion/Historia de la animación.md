@@ -216,7 +216,7 @@ De 1930 a 1933 dos ex alumnos de Disney, Hugh Harman y Rudolf Ising, desarrollar
 
 ###### Año 1940
 
-Se crea Tom y Jerry bajo la casa productora Metro Goldwyn Mayer (MGM)...
+Con la creación de Disney y Warner Bros en los años treinta, la Metro Goldwyn Mayer (MGM) a inicios de los años cuarenta, desarrolló una animación que sería una gran hit para la posteridad. Dirigida por Bill Hanna y Joe Barbera nace la que por los siguientes dieciséis años conseguiría siete Oscars de la academia, estamos hablando nada más y nada menos que de Tom y Jerry (FUOC, s. f.).
 
 CONTINUA
 

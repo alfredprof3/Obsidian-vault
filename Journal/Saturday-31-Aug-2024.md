@@ -1,6 +1,6 @@
 ## Actualización
 
-- Avance hasta la Warner Bros. Tomar la información de AcademiaLab y del documento del PDF.
+- Avance hasta la MGM con Tom y Jerry.
 
 ## Pendientes
 
