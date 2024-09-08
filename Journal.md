@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Pendientes
 
+- [ ] Revisar tareas
+- [ ] Avance hasta el año 1944. Falta poner del año 1950 en adelante (Hanna-Barbera con "Los Picapiedra")
 
 
 ## Gestion de RRSS
