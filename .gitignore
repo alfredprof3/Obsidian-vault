@@ -1,8 +1,3 @@
-.obsidian/*.json
-.obsidian/plugins/
-.obsidian/icons/
-.obsidian/snippets/
-.obsidian/themes/
-!.obsidian/plugins/homework-manager/
-!.obsidian/plugins/homework-manager/*
+.obsidian/*
+!.obsidian/plugins/
 Journals/
