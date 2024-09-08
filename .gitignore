@@ -1,7 +1,10 @@
-.obsidian/plugins/*
-!.obsidian/plugins/homework-manager/
-.obsidian/themes/
-.obsidian/snippets/
-.obsidian/*.json
+#.obsidian/plugins/*
+#!.obsidian/plugins/homework-manager/
+#.obsidian/themes/
+#.obsidian/snippets/
+#.obsidian/*.json
+#!.obsidian/community-plugins.json
+.obsidian/*
 !.obsidian/community-plugins.json
+!.obsidian/plugins/homework-manager/
 Journals/
