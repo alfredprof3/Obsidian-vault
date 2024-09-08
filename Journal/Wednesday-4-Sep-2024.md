@@ -1,4 +1,4 @@
-## Gestión de Redes Sociales (Marketing escolarizado vespertino 4 cuatrimestre)
+## Gestión de Redes Sociales
 
 Se pretende generar contenido con los siguientes objetivos.
 
