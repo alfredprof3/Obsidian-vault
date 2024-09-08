@@ -6,5 +6,5 @@
 #!.obsidian/community-plugins.json
 .obsidian/*
 !.obsidian/community-plugins.json
-!.obsidian/plugins/homework-manager/
+!.obsidian/plugins/
 Journals/
