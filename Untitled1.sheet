@@ -1,0 +1,20 @@
+[
+    {
+        "id": "67db8f6a-42cf-4f46-a084-bd4315ab5d86",
+        "name": "Sheet1",
+        "plugin": "divams_spreadsheets_for_obsidian",
+        "celldata": [
+            {
+                "r": 1,
+                "c": 0,
+                "v": {
+                    "ct": {
+                        "fa": "General",
+                        "t": "e"
+                    }
+                }
+            }
+        ],
+        "calcChain": []
+    }
+]

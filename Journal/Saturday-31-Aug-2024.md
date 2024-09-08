@@ -4,12 +4,9 @@
 
 ## Pendientes
 
-- [ ] Terminar la línea del tiempo de la historia de la animación
-- [ ] Revisar plugins para pendientes o tasks
-	- [ ] task
-	- [ ] natural language dates
-	- [ ] sheet plus
-- [ ] Poner las imágenes de los inventos. Estas imágenes están en el sitio de MUVAC filmoteca de UNAM. Hay una galeria en 3D en sketchfab.
+- [x] Terminar la línea del tiempo de la historia de la animación #todo (@2024-09-06)
+- [x] Revisar plugins para pendientes o tasks #todo #2024-09-09
+- [ ] Poner las imágenes de los inventos. Estas imágenes están en el sitio de MUVAC filmoteca de UNAM. Hay una galeria en 3D en sketchfab. (@2024-09-09)
 - [x] Tomar la información del MUVAC filmoteca de UNAM para los inventos próximos a describir
 - [x] Sigue el praxinoscopio, thomas alva edison, george eastman, george melies y hermanos lumiere
 - [x] Poner la cita de AcademiaLab
