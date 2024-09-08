@@ -1,3 +1,4 @@
 .obsidian/*
 !.obsidian/plugins/homework-manager/
+!.obsidian/plugins/homework-manager/*
 Journals/
