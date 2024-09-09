@@ -1,9 +1,6 @@
 ---
-tags:
-  - GestionRRSS
-Escolarizado: 2024-09-09T18:20:00
-Ejecutivo: 2024-09-09T20:30:00
-Sabatino: 2024-09-21T08:00:00
+Escolarizado: 2024-09-08
+tags: []
 ---
 ## Definir objetivos, KPIs y estrategia
 
