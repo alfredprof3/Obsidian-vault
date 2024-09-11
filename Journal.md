@@ -6,12 +6,13 @@ kanban-plugin: board
 
 ## Pendientes
 
-- [ ] Revisar tareas
-- [ ] Avance hasta el año 1944. Falta poner del año 1950 en adelante (Hanna-Barbera con "Los Picapiedra")
+- [x] Revisar tareas ✅ 2024-09-09
+- [x] Avance hasta el año 1944. Falta poner del año 1950 en adelante (Hanna-Barbera con "Los Picapiedra") ✅ 2024-09-09
 
 
 ## Gestion de RRSS
 
+- [x] Esta es una nueva tarea desde kanban plugin ✅ 2024-09-09
 
 
 ## Diseño tienda online

@@ -1,12 +1,11 @@
 ---
-Escolarizado: 2024-09-08
-tags: []
+Escolarizado: 2024-09-09
 ---
 ## Definir objetivos, KPIs y estrategia
 
 Generar contenido visual (vídeos e imágenes) con los siguientes objetivos.
 
-### Objetivos
+### Objetivos (ejemplos)
 
 1. Realizar entrevistas a transeuntes sobre cuánto se han gastado en la ciudad de Cancún durante su estancia vacacional.
 2. Hacer reviews sobre la comida en Cancún (callejera o pymes).

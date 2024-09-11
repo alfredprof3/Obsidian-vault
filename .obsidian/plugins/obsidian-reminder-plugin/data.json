@@ -1,18 +1,18 @@
 {
   "scanned": true,
   "reminders": {
-    "Journal/Saturday-31-Aug-2024.md": [
-      {
-        "title": "Poner las imágenes de los inventos. Estas imágenes están en el sitio de MUVAC filmoteca de UNAM. Hay una galeria en 3D en sketchfab.",
-        "time": "2024-09-09",
-        "rowNumber": 8
-      }
-    ],
     "Journaling.md": [
       {
-        "title": "Poner las imágenes de los inventos. Estas imágenes están en el sitio de MUVAC filmoteca de UNAM. Hay una galeria en 3D en sketchfab.",
-        "time": "2024-09-09",
-        "rowNumber": 8
+        "title": "Remember to do that important thing - with a due date",
+        "time": "2024-09-15",
+        "rowNumber": 18
+      }
+    ],
+    "Journal/WhatsApp Journal.md": [
+      {
+        "title": "Esta es una tarea",
+        "time": "2024-09-17",
+        "rowNumber": 18
       }
     ]
   },
