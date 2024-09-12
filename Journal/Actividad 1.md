@@ -7,7 +7,7 @@ Generar contenido visual (vídeos e imágenes) con los siguientes objetivos.
 
 ### Objetivos (ejemplos)
 
-#### Realizar entrevistas a transeuntes sobre cuánto se han gastado en la ciudad de Cancún durante su estancia vacacional.
+#### Realizar entrevistas a transeuntes (público en general)
 
 ##### Lugares para entrevistar
 
@@ -58,11 +58,36 @@ Tiempo de duración de los podcast: 15 a 20 minutos como máximo
 
 ### Estrategia
 
-1. Investigación de mercado
-2. Segmentación de mercado
-3. Posicionamiento
-4. Objetivos
-5. El plan
-	1. Ideas de plan: sobre las personas entrevistadas y que hayan recomendado lugares de comida, visitarlo y degustar la comida que recomendó.
-6. Medición y análisis
+#### Investigación de mercado
 
+En la ciudad de Cancún existen muy pocos creadores de contenido, lo cual hace que, lugares, opiniones, curiosidad y hasta el propio tipo de personalidades no sean tan conocidos en las plataformas digitales. El objetivo de crear contenido para las plataformas es la de informar y comunicar sin importar el tema. En esta investigación se profundizarán con base a 3 objetivos establecidos, los cuales se describirán en dicha sección
+
+#### Segmentación de mercado
+
+Con base a los objetivos, la segmentación se definió de la siguiente forma:
+1. Universitarios
+2. Público en general
+3. Negocios de comida callejera
+
+#### Posicionamiento
+
+Al iniciar en la creación de contenido como alumnos y comunidad de la universidad Henbord, no contamos con una presencia en las RRSS, es decir, hasta el momento no nos conocen y no saben de nuestra existencia como creadores de contenido.
+
+#### Objetivos
+
+En un lapso de 1 mes se pretende lograr y generar lo siguiente:
+
+1. Realizar entrevistar a transeuntes (público en general)
+2. Hacer review (reseñas) sobre la comida en Cancún 
+3. Realizar podcast con alumnos de distintas universidades
+
+#### El plan
+
+Ideas de plan: sobre las personas entrevistadas que hayan proporcionado una recomendación sobre algún lugar de comida, visitarlo y degustar a modo de calificación o puntuación.
+
+#### Medición y análisis
+
+##### Resultados del primer período (16 septiembre - 16 octubre)
+
+**Alcance:**
+**Interacciones:**
