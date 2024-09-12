@@ -1,21 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "Journaling.md": [
-      {
-        "title": "Remember to do that important thing - with a due date",
-        "time": "2024-09-15",
-        "rowNumber": 18
-      }
-    ],
-    "Journal/WhatsApp Journal.md": [
-      {
-        "title": "Esta es una tarea",
-        "time": "2024-09-17",
-        "rowNumber": 18
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

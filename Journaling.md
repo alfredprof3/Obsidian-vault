@@ -15,9 +15,9 @@
 ```
 
 
-- [ ] Something non-important, with no date
-- [ ] Remember to do that important thing - with a due date 📅 2024-09-15
-- [ ] Send Kate a birthday card - with a scheduled date 🔁 every January on the 4th ⏳ 2023-01-04
+- [x] Something non-important, with no date ✅ 2024-09-12
+- [x] Remember to do that important thing - with a due date 📅 2024-09-15 ✅ 2024-09-12
+- [x] Se ✅ 2024-09-12
 
 ## Notas
 

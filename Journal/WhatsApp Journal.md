@@ -16,7 +16,7 @@ Crear una tarea para revisar los avances de los alumnos
 ---
 #### captured [[2024-09-08]] at `23:43`
 
-- [ ] Esta es una tarea 📅 2024-09-17 
+- [x] Esta es una tarea 📅 2024-09-17 ✅ 2024-09-12
 
 
 ---

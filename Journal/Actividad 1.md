@@ -1,6 +1,3 @@
----
-Escolarizado: 2024-09-09
----
 ## Definir objetivos, KPIs y estrategia
 
 Generar contenido visual (vídeos e imágenes) con los siguientes objetivos.
