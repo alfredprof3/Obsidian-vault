@@ -9,7 +9,8 @@
   "chronology",
   "calendar",
   "univer",
-  "hints-plugin",
   "dataview",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "sheets",
+  "obsidian-kanban"
 ]
