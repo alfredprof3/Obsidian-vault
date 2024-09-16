@@ -10,5 +10,10 @@
   "calendar",
   "univer",
   "dataview",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "auto-embed",
+  "obsidian-kanban",
+  "sheets",
+  "paste-link",
+  "convert-url-to-iframe"
 ]
