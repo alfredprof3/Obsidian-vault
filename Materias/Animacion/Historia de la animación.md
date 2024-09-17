@@ -227,7 +227,21 @@ Años más tarde, esta misma casa productora introduce el concepto de interacci�
 ##### Animación por TV
 ###### Año 1950
 
-Inicia las series de animación en TV...
+Las series de TV toman fuerza y se crean varias series animadas para transmitir en este medio, una de las animaciones creadas por esas fechas fue _Las aventuras de Pow Wow_ así como también _JIm and Judy in teleland_. A finales de este año varios estudios dedicaron su tiempo y esfuerzos para desarrollar animaciones para la TV, iniciando una competencia formal entre estudios.
+
+###### Año 1960
+
+Los animadores Hanna-Barbera crearon la famosa caritcatura de _Los picapiedra_. Para este año también se crearon series animadas como _Los supersónicos, El Oso Yogi y Scooby-Doo ¿Dónde estas?_.
+
+###### Año 1970
+
+Se empieza a dar a conocer las imágenes generadas por computadora o CGI (Computed Generated Images). En 1977 se crea Star Wars la cual fue de las primeras películas en hacer uso del CGI.
+
+###### Año 1980
+
+Fue hasta este año quela animación 3D por computadora tuvo su auje, muestra de ello fue la exitosa película de Tron (1982). Ya en el año de 1984, _Las aventuras de Andre y Wally B_ hace su aparición siendo ésta el primer cortometraje hecho totalmente en la técnica de CGI, cuyos desarrolladores fueron _The Graphics Group_ lo que después se convertiría en Pixar. 
+
+En 1987 se lanza a la televisión la famosa serie de _Los Simpsons_
 
 CONTINUA
 
