@@ -93,3 +93,15 @@ Parrilla
 
 
 <iframe src="https://1drv.ms/x/c/387ad10da043a9ec/EfK5znVHvulIsCr1WOKUyvgB_wxdJmCHDUdKL6JmfdSywQ?e=04MpB3" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 1 / 1;"></iframe>
+
+**Datos**
+Objetivo
+Plataforma
+No. de Semana
+Día / fecha
+Tipo de contenido
+Ubicación
+Descripción / Copy
+Hashtags
+Formato de la publicación
+Indicaciones
