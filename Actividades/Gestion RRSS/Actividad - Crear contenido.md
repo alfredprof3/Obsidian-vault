@@ -100,8 +100,8 @@ Plataforma
 No. de Semana
 Día / fecha
 Tipo de contenido
-Ubicación
+Formato de la publicación
 Descripción / Copy
 Hashtags
-Formato de la publicación
+Proporción de la imagen/vídeo
 Indicaciones
