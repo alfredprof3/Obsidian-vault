@@ -42,7 +42,7 @@ Generar contenido visual (vídeos e imágenes) con los siguientes objetivos.
 
 #### Realizar podcast con alumnos de distintas universidades
 
-1. Preguntas anónimas
+1. Confesiones anónimas
 2. Opiniones y puntos de vista sobre su vida universitaria
 3. Expectativa VS Realidad de la universidad
 
