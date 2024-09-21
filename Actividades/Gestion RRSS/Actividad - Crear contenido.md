@@ -2,7 +2,7 @@
 
 Generar contenido visual (vídeos e imágenes) con los siguientes objetivos.
 
-### Objetivos (ejemplos)
+### Objetivos
 
 #### Realizar entrevistas a transeuntes (público en general)
 
