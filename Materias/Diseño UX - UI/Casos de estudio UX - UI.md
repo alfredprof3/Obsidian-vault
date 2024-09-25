@@ -6,7 +6,7 @@
 
 ### Efecto Von Restorff
 
-[Sección de precio de la página Notin]([Notion Pricing Plans: Free, Plus, Business, Enterprise, & AI.](https://www.notion.so/pricing)
+[Sección de precio de la página Notin](https://www.notion.so/pricing)
 
 ### Efecto Posición en Serie
 

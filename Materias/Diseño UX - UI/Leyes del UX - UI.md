@@ -114,4 +114,4 @@ La productividad se dispara cuando una computadora y sus usuarios interactuan a 
 
 ### Referencias bibliográficas
 
-Yablonski, J. (n.d.-a). _Atención selectiva_. Laws of UX. Recuperado el 17 de septiembre, 2024 de https://lawsofux.com/es/atenci%C3%B3n-selectiva/
+- Yablonski, J. (s. f.). _Home | Laws of UX_. Laws Of UX. https://lawsofux.com/es/
