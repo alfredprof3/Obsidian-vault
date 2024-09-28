@@ -15,6 +15,8 @@
 
 
 
+<iframe src="https://www.tldraw.com/r/XPrKSfL5mDuwbFUHRn44i?d=v-935.-197.3767.1970.page" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
-<iframe src="https://1drv.ms/x/c/387ad10da043a9ec/EeypQ6AN0XoggDh5AAAAAAABOnh8f8RZce6t4DIDIC9ZZg" width="100%" height="700"></iframe>
 
+
+![[Tldraw 2024-09-Wednesday]]
