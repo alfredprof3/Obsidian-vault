@@ -24,7 +24,7 @@ Es aquí dónde la animación cobra su esencia, ya que al desarrollarla necesita
 
 #### La cámara oscura (siglo X - XI)
 
-###### Años 1027 - 1039 #timeline #test
+###### Años 1027 - 1039
 
 Es importante mencionar que desde la invención de la cámara oscura y la fotografía, junto con las diferentes técnicas de dibujo, han sido pilares importantes para el desarrollo de la animación clásica (cuadro a cuadro; frame by frame). Uno de los más grandes referentes de ésta técnica es el reconocido Walt Disney, con sus cintas cinematográficas de personajes legendarios como cenicienta blanca nieves, la sirenita y mucho más, hasta proyectos de animación más avanzados y complejos, gracias a los grandes avances en la tecnología computación hoy en día se desarrollan animaciones haciendo uso de programas 3D mediante los gráficos por computadora y más recientemente, con la inteligencia artificial. 
 
