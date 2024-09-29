@@ -1,0 +1,84 @@
+{
+  "nodes": [
+    {
+      "id": "196b0960c9b898f9",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -480,
+      "y": 60,
+      "width": 680,
+      "height": 460,
+      "label": "Flowchart"
+    },
+    {
+      "id": "2c7f90280396d84f",
+      "type": "text",
+      "text": "Inicia",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -448,
+      "y": 116,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "bec0e26cb09f105f",
+      "type": "text",
+      "text": "Decision",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": -80,
+      "y": 98,
+      "width": 260,
+      "height": 97,
+      "color": "2"
+    },
+    {
+      "id": "f00ab7689cf07c01",
+      "type": "text",
+      "text": "Process",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "x": -80,
+      "y": 380,
+      "width": 260,
+      "height": 68,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "a996c799470b814e",
+      "styleAttributes": {},
+      "fromNode": "bec0e26cb09f105f",
+      "fromSide": "bottom",
+      "toNode": "f00ab7689cf07c01",
+      "toSide": "top"
+    },
+    {
+      "id": "42388310af9639a3",
+      "styleAttributes": {},
+      "fromNode": "2c7f90280396d84f",
+      "fromSide": "right",
+      "toNode": "bec0e26cb09f105f",
+      "toSide": "left"
+    },
+    {
+      "id": "0cda1f43a53f5426",
+      "styleAttributes": {},
+      "fromNode": "f00ab7689cf07c01",
+      "fromSide": "left",
+      "toNode": "2c7f90280396d84f",
+      "toSide": "bottom",
+      "color": "2"
+    }
+  ],
+  "metadata": {}
+}

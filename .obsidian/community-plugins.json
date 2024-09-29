@@ -2,12 +2,10 @@
   "tldraw",
   "obsidian-mind-map",
   "advanced-canvas",
-  "obsidian-reminder-plugin",
   "table-editor-obsidian",
   "obsidian-table-generator",
   "homework-manager",
   "chronology",
-  "calendar",
   "univer",
   "dataview",
   "obsidian-tasks-plugin",
@@ -15,5 +13,6 @@
   "obsidian-kanban",
   "sheets",
   "paste-link",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "homepage"
 ]

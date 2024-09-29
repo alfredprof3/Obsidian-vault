@@ -1,5 +1,26 @@
 {
-  "Diseño UX/UI": {},
+  "Diseño UX/UI": {
+    "Wix": {
+      "page": "",
+      "date": ""
+    },
+    "Suqarespace": {
+      "page": "",
+      "date": ""
+    },
+    "Shopify": {
+      "page": "",
+      "date": ""
+    },
+    "Wordpress- WooCommerce": {
+      "page": "",
+      "date": ""
+    },
+    "Hostinger": {
+      "page": "",
+      "date": ""
+    }
+  },
   "Gestion de RRSS": {},
   "Journal": {}
 }

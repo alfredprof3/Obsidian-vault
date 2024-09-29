@@ -6,17 +6,15 @@
 
 #### Timeline programs
 
-![](https://miro.com/app/live-embed/uXjVKo6LrMM=/?moveToViewport=-8820,220,4573,2396&embedId=382662857126)
+
 
 #### Insertar imagenes
 - Si se pueden insertar imágenes en Obsidian desde los siguientes servicios de almacenamiento:
 	- One drive _(En Github no carga la imagen pero una vez descargado el repositorio si se puede pre visualizar)_.
 	- Yandex disk
 
-
-
-<iframe src="https://www.tldraw.com/r/XPrKSfL5mDuwbFUHRn44i?d=v-935.-197.3767.1970.page" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVN6z5fPw=/?moveToViewport=-2167,-1291,4370,2285&embedId=583917465094" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 
 
-![[Tldraw 2024-09-Wednesday]]
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVN6z5fPw=/?moveToViewport=-1074,-719,2185,1142&embedId=98043908976" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

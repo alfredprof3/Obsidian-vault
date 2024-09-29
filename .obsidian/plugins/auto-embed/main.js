@@ -27,7 +27,7 @@ __export(main_exports, {
   default: () => AutoEmbedPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian5 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 
 // src/settings-tab.ts
 var import_obsidian2 = require("obsidian");
@@ -104,6 +104,7 @@ var DEFAULT_SETTINGS = {
   fallbackWidth: "100%",
   fallbackHeight: "500px",
   fallbackDefaultLink: "Link",
+  fallbackAutoTitle: true,
   showAdvancedSettings: false,
   debug: false
 };
@@ -200,11 +201,15 @@ var AutoEmbedSettingTab = class extends import_obsidian2.PluginSettingTab {
     AddPadding(googleDocsOption, true);
     new import_obsidian2.Setting(containerEl).setName("Fallback link").setHeading().setDesc("Choose what the plugin does when the link isn't supported");
     const fallbackSettings = [];
-    let fallbackAddLinkSetting = null;
+    const fallbackEmbedSettings = [];
+    function UpdateFallbackEmbedVisibility() {
+      fallbackEmbedSettings.forEach((setting) => {
+        setting.settingEl.style.display = settings.fallbackOptions === 1 /* EmbedLink */ ? "flex" : "none";
+      });
+    }
     fallbackSettings.push(new import_obsidian2.Setting(containerEl).setName("Fallback options").addDropdown((dropdown) => dropdown.addOptions(EnumToRecord(FallbackOptions)).setValue(FallbackOptions[settings.fallbackOptions]).onChange(async (value) => {
       settings.fallbackOptions = FallbackOptions[value];
-      if (fallbackAddLinkSetting)
-        fallbackAddLinkSetting.settingEl.style.display = settings.fallbackOptions === 1 /* EmbedLink */ ? "flex" : "none";
+      UpdateFallbackEmbedVisibility();
       await this.plugin.saveSettings();
     })));
     fallbackSettings.push(new import_obsidian2.Setting(containerEl).setName("Default width").setDesc("Default is 100%, filling the width of the viewport").addText(
@@ -219,14 +224,28 @@ var AutoEmbedSettingTab = class extends import_obsidian2.PluginSettingTab {
         await this.plugin.saveSettings();
       })
     ));
-    fallbackAddLinkSetting = new import_obsidian2.Setting(containerEl).setName("Sets the default text for a link below the embed").setDesc("Add a link below the embed to easily open the link on a browser").addText(
-      (text) => text.setValue(settings.fallbackDefaultLink).setPlaceholder("Link").onChange(async (value) => {
-        settings.fallbackDefaultLink = value;
-        await this.plugin.saveSettings();
-      })
+    fallbackEmbedSettings.push(
+      new import_obsidian2.Setting(containerEl).setName("Auto link title").setDesc("Automatically fetches and displays the title below the embed when a custom title isn\u2019t set").addToggle(
+        (toggle) => toggle.setValue(settings.fallbackAutoTitle).onChange(async (value) => {
+          settings.fallbackAutoTitle = value;
+          await this.plugin.saveSettings();
+        })
+      )
     );
-    fallbackAddLinkSetting.settingEl.style.display = settings.fallbackOptions === 1 /* EmbedLink */ ? "flex" : "none";
-    fallbackSettings.push(fallbackAddLinkSetting);
+    const defaultTitleDescription = new DocumentFragment();
+    defaultTitleDescription.appendText("Default text when 'Auto link title' is false OR no title is found.");
+    defaultTitleDescription.appendChild(createEl("br"));
+    defaultTitleDescription.appendText("Set 'Auto link title' to false and clear 'Default title' to remove the link.");
+    fallbackEmbedSettings.push(
+      new import_obsidian2.Setting(containerEl).setName("Default title").setDesc(defaultTitleDescription).addText(
+        (text) => text.setValue(settings.fallbackDefaultLink).setPlaceholder("Link").onChange(async (value) => {
+          settings.fallbackDefaultLink = value;
+          await this.plugin.saveSettings();
+        })
+      )
+    );
+    UpdateFallbackEmbedVisibility();
+    fallbackSettings.push(...fallbackEmbedSettings);
     fallbackSettings.forEach((setting) => {
       AddPadding(setting);
     });
@@ -362,6 +381,7 @@ var EmbedWidget = class extends import_view.WidgetType {
 };
 
 // src/embeds/embedBase.ts
+var import_obsidian4 = require("obsidian");
 var BaseEmbedData = class {
   constructor(embedSource, originalString) {
     this.embedSource = embedSource;
@@ -385,10 +405,25 @@ var EmbedBase = class {
     else
       embedClass = "auto-embed-unknown-class";
     const container = createDiv({ cls: ["auto-embed-container", embedClass] });
-    const iframe = embed instanceof HTMLIFrameElement ? embed : embed.querySelector(":scope > iframe");
     container.appendChild(embed);
+    (0, import_obsidian4.requestUrl)({ url: link, method: "HEAD" }).then((res) => {
+      var _a;
+      if (res.headers["content-type"].startsWith("image")) {
+        container.classList.add("auto-embed-hide-display");
+        (_a = container.parentElement) == null ? void 0 : _a.removeChild(container);
+      }
+    });
+    if (embed.classList.contains("error-embed")) {
+      console.log("Container: " + embedData.embedContainer);
+      return {
+        embedData,
+        containerEl: container,
+        embed
+      };
+    }
+    const iframe = embed instanceof HTMLIFrameElement ? embed : embed.querySelector(":scope > iframe");
     let placeholder;
-    const hideClass = "auto-embed-hide";
+    const hideClass = "auto-embed-hide-visibility";
     function AddOnLoadEvent(iframe2) {
       function ShowEmbed_HidePlaceholder() {
         embed.classList.remove(hideClass);
@@ -408,7 +443,7 @@ var EmbedBase = class {
           placeholder == null ? void 0 : placeholder.classList.toggle("auto-embed-click-to-load", false);
           const loader = placeholder == null ? void 0 : placeholder.querySelector(".auto-embed-loader");
           if (loader)
-            loader.classList.toggle("auto-embed-hide", false);
+            loader.classList.toggle(hideClass, false);
           const status = placeholder == null ? void 0 : placeholder.querySelector(".auto-embed-placeholder-status");
           if (status)
             status.textContent = "Loading embed...";
@@ -420,6 +455,9 @@ var EmbedBase = class {
           AddOnLoadEvent(iframe);
         });
       } else {
+        const loader = placeholder == null ? void 0 : placeholder.querySelector(".auto-embed-loader");
+        if (loader)
+          loader.classList.toggle(hideClass, false);
         AddOnLoadEvent(iframe);
       }
     }
@@ -483,7 +521,7 @@ var EmbedBase = class {
         cls: "auto-embed-placeholder-status"
       }
     );
-    createSpan({ cls: "auto-embed-loader auto-embed-hide", parent: container });
+    createSpan({ cls: "auto-embed-loader auto-embed-hide-visibility", parent: container });
     createEl(
       "p",
       {
@@ -505,18 +543,6 @@ var EmbedBase = class {
 URL: ${url}`;
     const error = createEl("p", { cls: `${this.autoEmbedCssClass} error-embed` });
     error.setText(errorMsg);
-    function DispatchErrorEvent(attempts) {
-      if (attempts === 0)
-        return;
-      setTimeout(async () => {
-        var _a;
-        if (error.parentElement)
-          (_a = error.parentElement) == null ? void 0 : _a.dispatchEvent(new Event("auto-embed-error"));
-        else
-          DispatchErrorEvent(--attempts);
-      }, 200);
-    }
-    DispatchErrorEvent(20);
     console.log("auto-embed/error: " + errorMsg);
     return error;
   }
@@ -528,7 +554,7 @@ var TwitterEmbed = class extends EmbedBase {
     super(...arguments);
     this.name = "Twitter/X";
     // Don't parse twitter since Obsidian already handles that.
-    this.regex = new RegExp(/https:\/\/(?:x)\.com\/\w+\/status\/(\w+)/);
+    this.regex = new RegExp(/https:\/\/(?:x)\.com\/(\w+)(?:\/status\/(\w+))?/);
     this.embedOrigin = "https://platform.twitter.com";
   }
   createEmbed(url) {
@@ -536,13 +562,18 @@ var TwitterEmbed = class extends EmbedBase {
     if (regexMatch === null)
       return this.onErrorCreatingEmbed(url);
     const iframe = createEl("iframe");
-    const postId = regexMatch[1];
-    url = `https://platform.twitter.com/embed/Tweet.html?dnt=true&theme=${this.plugin.settings.darkMode ? "dark" : "light"}&id=${postId}`;
+    const postId = regexMatch[2];
+    const isPost = postId !== void 0;
+    if (isPost)
+      url = `https://platform.twitter.com/embed/Tweet.html?dnt=true&theme=${this.plugin.settings.darkMode ? "dark" : "light"}&id=${regexMatch[2]}`;
+    else
+      url = `https://syndication.twitter.com/srv/timeline-profile/screen-name/${regexMatch[1]}?dnt=true`;
     iframe.src = url;
     iframe.classList.add(this.autoEmbedCssClass);
     iframe.dataset.containerClass = "twitter-embed";
     iframe.sandbox.add("allow-forms", "allow-presentation", "allow-same-origin", "allow-scripts", "allow-modals", "allow-popups");
-    iframe.setAttribute("scrolling", "no");
+    if (isPost)
+      iframe.setAttribute("scrolling", "no");
     iframe.dataset.twitterPostId = postId;
     if (this.sizeCache[postId] && this.sizeCache[postId].height) {
       iframe.style.height = this.sizeCache[postId].height + "px";
@@ -744,6 +775,7 @@ var ImgurEmbed = class extends EmbedBase {
 };
 
 // src/embeds/defaultFallbackEmbed.ts
+var import_obsidian5 = require("obsidian");
 var DefaultFallbackEmbed = class extends EmbedBase {
   constructor() {
     super(...arguments);
@@ -754,7 +786,7 @@ var DefaultFallbackEmbed = class extends EmbedBase {
   createEmbed(url, embedOptions) {
     switch (this.plugin.settings.fallbackOptions) {
       case 0 /* ShowErrorMessage */:
-        return this.onErrorCreatingEmbed("Unable to embed: " + url);
+        return this.onErrorCreatingEmbed(url, "Website is not supported");
       case 1 /* EmbedLink */: {
         const embedContainer = createSpan();
         embedContainer.addClass(this.autoEmbedCssClass, "default-fallback-embed-container");
@@ -777,15 +809,37 @@ var DefaultFallbackEmbed = class extends EmbedBase {
             embedContainer.style.height = height;
         }
         embedContainer.appendChild(iframe);
-        if (this.plugin.settings.fallbackDefaultLink || embedOptions.alt) {
+        if (embedOptions.alt || this.plugin.settings.fallbackDefaultLink && !this.plugin.settings.fallbackAutoTitle) {
           const linkText = embedOptions.alt ? embedOptions.alt : this.plugin.settings.fallbackDefaultLink;
-          const link = createEl("a", { href: iframe.src, text: linkText.trim() });
+          const link = createEl("a", { href: url, text: linkText.trim() });
+          embedContainer.appendChild(link);
+        } else if (this.plugin.settings.fallbackAutoTitle) {
+          const link = createEl("a", { href: url, text: "Loading title..." });
+          this.linkTitle(url).then((title) => link.text = title);
           embedContainer.appendChild(link);
         }
         return embedContainer;
       }
       case 2 /* Hide */:
-        return createEl("span", { cls: "auto-embed-hide" });
+        return createEl("span", { cls: "auto-embed-hide-visibility" });
+    }
+  }
+  async linkTitle(url) {
+    try {
+      const response = await (0, import_obsidian5.requestUrl)({ url, method: "GET" });
+      console.log(response);
+      if (!response.headers["content-type"].includes("text/html"))
+        return this.plugin.settings.fallbackDefaultLink;
+      const html = response.text;
+      const doc = new DOMParser().parseFromString(html, "text/html");
+      const title = doc.querySelector("title");
+      if (title && title.text) {
+        return title.text;
+      } else {
+        return this.plugin.settings.fallbackDefaultLink;
+      }
+    } catch (ex) {
+      return `Error: ${ex.message}`;
     }
   }
 };
@@ -895,6 +949,7 @@ var SoundCloudEmbed = class extends EmbedBase {
 };
 
 // src/embeds/embedManager.ts
+var import_obsidian6 = require("obsidian");
 var EmbedManager = class {
   constructor() {
   }
@@ -905,7 +960,6 @@ var EmbedManager = class {
     this.plugin = plugin;
     this.embedSources = [
       // new YouTubeEmbed(plugin),
-      new TwitterEmbed(plugin),
       new RedditEmbed(plugin),
       new SteamEmbed(plugin),
       new CodepenEmbed(plugin),
@@ -917,9 +971,17 @@ var EmbedManager = class {
     ];
     this.ignoredDomains = [
       // Ignore embeds for youtube and twtiter
-      new RegExp(/(?:https?:\/\/)?(?:www\.)?youtu(?:\.be\/|be.com\/)/),
-      new RegExp(/https:\/\/(?:twitter)\.com/)
+      new RegExp(/(?:https?:\/\/)?(?:www\.)?youtu(?:\.be\/|be.com\/)/)
     ];
+    const apiVersionSplit = import_obsidian6.apiVersion.split(".");
+    const majorVersion = parseInt(apiVersionSplit[0]);
+    const minorVersion = parseInt(apiVersionSplit[1]);
+    if (majorVersion > 1 || majorVersion === 1 && minorVersion >= 7) {
+      this.ignoredDomains.push(new RegExp(/https:\/\/(?:twitter|x)\.com/));
+    } else {
+      this.embedSources.push(new TwitterEmbed(plugin));
+      this.ignoredDomains.push(new RegExp(/https:\/\/(?:twitter)\.com/));
+    }
     this.defaultFallbackEmbed = new DefaultFallbackEmbed(plugin);
   }
   // Gets the embed source for the url
@@ -947,7 +1009,7 @@ var EmbedManager = class {
 };
 
 // src/embed-state-field.ts
-var import_obsidian4 = require("obsidian");
+var import_obsidian7 = require("obsidian");
 var formattingImageMarkerRegex = /formatting_formatting-image_image_image-marker(?:_list-\d*)?$/;
 var stringUrlRegex = /^(?:list-\d*_)?string_url$/;
 var embedField = import_state.StateField.define({
@@ -956,7 +1018,7 @@ var embedField = import_state.StateField.define({
   },
   update(oldState, transaction) {
     const builder = new import_state.RangeSetBuilder();
-    if (!transaction.state.field(import_obsidian4.editorLivePreviewField))
+    if (!transaction.state.field(import_obsidian7.editorLivePreviewField))
       return builder.finish();
     let altTextStartPos = null;
     (0, import_language.syntaxTree)(transaction.state).iterate({
@@ -977,9 +1039,10 @@ var embedField = import_state.StateField.define({
           const replaceFrom = node.to + 1;
           builder.add(
             replaceFrom,
-            replaceFrom + 1,
+            replaceFrom,
             import_view2.Decoration.replace({
-              widget: new EmbedWidget(embedData, url, alt)
+              widget: new EmbedWidget(embedData, url, alt),
+              block: true
             })
           );
         }
@@ -999,7 +1062,7 @@ var PasteInfo = class {
     this.text = text;
   }
 };
-var AutoEmbedPlugin = class extends import_obsidian5.Plugin {
+var AutoEmbedPlugin = class extends import_obsidian8.Plugin {
   constructor() {
     super(...arguments);
     this.isShiftDown = false;
@@ -1105,7 +1168,12 @@ var AutoEmbedPlugin = class extends import_obsidian5.Plugin {
     const embedResult = embedData.embedSource.create(src, embedData);
     embedData.embedSource.applyModifications(embedResult, embedData);
     const parent = img.parentElement;
-    parent == null ? void 0 : parent.replaceChild(embedResult.containerEl, img);
+    parent == null ? void 0 : parent.appendChild(embedResult.containerEl);
+    img.classList.add("auto-embed-hide-display");
+    img.addEventListener("load", () => {
+      img.classList.remove("auto-embed-hide-display");
+      embedResult.containerEl.classList.add("auto-embed-hide-display");
+    });
     return embedResult.containerEl;
   }
   // // Replaces Obsidian's iframes for YouTube and Twitter. Makes it so the user can apply the same options
