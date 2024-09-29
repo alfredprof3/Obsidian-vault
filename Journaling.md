@@ -1,6 +1,10 @@
 ## Actualización
 
 - Avance hasta el año 1944. Falta poner del año 1950 en adelante (Hanna-Barbera "Los Picapiedra")
+- Páginas para construir sitios web ecommerce
+	- Wix
+	- Squarespace
+	- Shopify
 
 ## Notas
 
