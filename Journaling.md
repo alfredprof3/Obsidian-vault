@@ -17,13 +17,13 @@ Borre las líneas que estaban aquí desde la laptop de Samsung
 
 ### Plugins Figma to Shopify
 
-- [ ] Figma to Shopify with Instant
-- [ ] Figma to Shopify with Foxify
-- [ ] Figma to Shopify with Replo
+- [x] Figma to Shopify with Instant ✅ 2024-09-29 ⚠️ no se pudo conectar, el diseño no se muestra en shopify
+- [x] Figma to Shopify with Foxify ✅ 2024-09-29 ⚠️ se tiene que pagar para crear el sitio
+- [x] Figma to Shopify with Replo ✅ 2024-09-29 ⚠️ no sirve
 
 ### Plugins Shopify app store
 
 - [ ] PageFly Landing Page Builder
-- [ ] Foxify Smart Page Builder
-- [ ] Instant Section & Page Builder
-- [ ] Replo Landing Page Designer
+- [x] Foxify Smart Page Builder ✅ 2024-09-29
+- [x] Instant Section & Page Builder ✅ 2024-09-29
+- [x] Replo Landing Page Designer ✅ 2024-09-29
