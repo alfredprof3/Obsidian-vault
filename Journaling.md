@@ -10,8 +10,7 @@
 
 #### Timeline programs
 
-Poner programas para crear la línea del tiempo
-Pobrando las integraciones de Git
+Borre las líneas que estaban aquí
 
 #### Insertar imagenes
 - Si se pueden insertar imágenes en Obsidian desde los siguientes servicios de almacenamiento:
