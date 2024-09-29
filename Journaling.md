@@ -10,7 +10,7 @@
 
 #### Timeline programs
 
-Ahora yo borre las líneas que estaban aquí pero desde la laptop Asus Vivobook
+Borre las líneas que estaban aquí desde la laptop de Samsung
 
 #### Insertar imagenes
 - Si se pueden insertar imágenes en Obsidian desde los siguientes servicios de almacenamiento:
