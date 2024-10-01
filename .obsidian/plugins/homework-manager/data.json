@@ -1,5 +1,10 @@
 {
-  "Diseño UX/UI": {},
+  "Diseño UX/UI": {
+    "Terminar ejercicios": {
+      "page": "",
+      "date": "2024-10-01"
+    }
+  },
   "Gestion de RRSS": {
     "Enviar excel actualizado": {
       "page": "Actividades/Gestion RRSS/Actividad - Crear contenido.md",
