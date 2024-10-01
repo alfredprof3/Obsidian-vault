@@ -1,33 +1,13 @@
 {
-  "Diseño UX/UI": {
-    "Figma to Shopify with Instant": {
-      "page": "",
-      "date": ""
+  "Diseño UX/UI": {},
+  "Gestion de RRSS": {
+    "Enviar excel actualizado": {
+      "page": "Actividades/Gestion RRSS/Actividad - Crear contenido.md",
+      "date": "2024-10-01"
     },
-    "Figma to Shopify with Foxify": {
+    "Hacer la distribución de tareas": {
       "page": "",
-      "date": ""
-    },
-    "Figma to Shopify with Replo": {
-      "page": "",
-      "date": ""
-    },
-    "PageFly Landing Page Builder": {
-      "page": "",
-      "date": ""
-    },
-    "Foxify Smart Page Builder": {
-      "page": "",
-      "date": ""
-    },
-    "Instant Section & Page Builder": {
-      "page": "",
-      "date": ""
-    },
-    "Replo Landing Page Designer": {
-      "page": "",
-      "date": ""
+      "date": "2024-10-01"
     }
-  },
-  "Gestion de RRSS": {}
+  }
 }
