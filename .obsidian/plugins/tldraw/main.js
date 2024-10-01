@@ -94009,28 +94009,18 @@ var TldrawReadonly = class _TldrawReadonly extends TldrawLoadableMixin(import_ob
 };
 
 // src/utils/decorators/plugin.ts
-function sealed(target, args) {
-  Object.seal(target);
-  Object.seal(target.prototype);
-}
 function pluginBuild(Base, args) {
-  var _TldrawPluginDevelopment_decorators, _init2, _a3;
   const decoratedPlugin = Base.name;
-  _TldrawPluginDevelopment_decorators = [sealed];
-  let _TldrawPluginDevelopment = class _TldrawPluginDevelopment extends (_a3 = Base) {
+  class TldrawPluginDevelopment extends Base {
     onload() {
-      logClass(_TldrawPluginDevelopment, this.onload, `Loading plugin '${decoratedPlugin}.`);
+      logClass(TldrawPluginDevelopment, this.onload, `Loading plugin '${decoratedPlugin}.`);
       return super.onload();
     }
     onunload() {
-      logClass(_TldrawPluginDevelopment, this.onload, `Unloading plugin '${decoratedPlugin}'.`);
+      logClass(TldrawPluginDevelopment, this.onload, `Unloading plugin '${decoratedPlugin}'.`);
       return super.onunload();
     }
-  };
-  _init2 = __decoratorStart(_a3);
-  _TldrawPluginDevelopment = __decorateElement(_init2, 0, "TldrawPluginDevelopment", _TldrawPluginDevelopment_decorators, _TldrawPluginDevelopment);
-  __runInitializers(_init2, 1, _TldrawPluginDevelopment);
-  let TldrawPluginDevelopment = _TldrawPluginDevelopment;
+  }
   console.log(`Decorating '${decoratedPlugin}' as '${TldrawPluginDevelopment.name}'`);
   return TldrawPluginDevelopment;
 }

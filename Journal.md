@@ -2,6 +2,19 @@
 
 - Avance hasta el año 1944. Falta poner del año 1950 en adelante (Hanna-Barbera "Los Picapiedra")
 
+## Ideas
+
+### Diseño de Tienda Online
+
+E-Commerce business ideas
+- Servicios de cuidado para mascotas
+- Plataforma de venta de cursos y talleres
+- Venta de juguetes hechos a mano
+- Venta de comida en línea
+- Venta de plantas en línea
+- Venta de productos de maquillaje natural
+- Venta de decoración para el hogar
+
 ## Notas
 
 #### Timeline programs
