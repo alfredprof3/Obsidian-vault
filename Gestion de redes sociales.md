@@ -1,2 +1,0 @@
-nota nueva
-otra nota
