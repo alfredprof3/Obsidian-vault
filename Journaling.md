@@ -23,7 +23,3 @@ Borre las líneas que estaban aquí desde la laptop de Samsung
 
 ### Plugins Shopify app store
 
-- [ ] PageFly Landing Page Builder
-- [x] Foxify Smart Page Builder ✅ 2024-09-29
-- [x] Instant Section & Page Builder ✅ 2024-09-29
-- [x] Replo Landing Page Designer ✅ 2024-09-29

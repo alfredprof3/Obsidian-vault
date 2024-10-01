@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## To Do
 
+- [ ] Gestion RRSS
 - [ ] Videos
-- [ ] Gestion RRSS #videos
 
 
 ## In progress
