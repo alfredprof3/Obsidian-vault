@@ -7,5 +7,5 @@
 ---
 ## September 2024
 ### 30-09-2024, Monday
-- Enviar excel (Gestión RRSS) [[Actividad - Crear contenido]]
+- Enviar excel (Gestión RRSS) [[Parrilla de creación de contenido]]
 - Terminar de crear las redes sociales para universitarios contra el mundo
