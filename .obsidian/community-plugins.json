@@ -8,7 +8,6 @@
   "chronology",
   "univer",
   "dataview",
-  "auto-embed",
   "obsidian-kanban",
   "sheets",
   "paste-link",
@@ -16,5 +15,7 @@
   "homepage",
   "github-sync",
   "single-file-daily-notes",
-  "obsidian-paper-cut"
+  "obsidian-paper-cut",
+  "obsidian-export-image",
+  "image-inline"
 ]
