@@ -35,6 +35,3 @@ Borre las líneas que estaban aquí desde la laptop de Samsung
 - [x] Figma to Shopify with Replo ✅ 2024-09-29 ⚠️ no sirve
 
 ### Plugins Shopify app store
-
-
-<iframe src="https://www.figma.com/design/0z4jpipxEzazrSiY3G3vI2/UX---UI?node-id=0-1&amp;t=Qj8iBxlhWmraReAI-1" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
