@@ -1,22 +1,4 @@
 {
-  "Diseño UX/UI": {
-    "Terminar ejercicios": {
-      "page": "",
-      "date": "2024-10-01"
-    }
-  },
-  "Gestion de RRSS": {
-    "Enviar excel actualizado": {
-      "page": "Actividades/Gestion RRSS/Actividad - Crear contenido.md",
-      "date": "2024-10-01"
-    },
-    "Hacer la distribución de tareas": {
-      "page": "",
-      "date": "2024-10-01"
-    },
-    "Terminar de crear las redes sociales": {
-      "page": "",
-      "date": "2024-10-01"
-    }
-  }
+  "Diseño UX/UI": {},
+  "Gestion de RRSS": {}
 }
