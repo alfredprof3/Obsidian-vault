@@ -4,17 +4,17 @@ kanban-plugin: board
 
 ---
 
-## To Do
+## Tienda online (escolarizado)
 
 - [ ] Gestion RRSS
 - [ ] Videos
 
 
-## In progress
+## Gestión RRSS (escolarizado)
 
 
 
-## Done
+## Branding (ejecutivo)
 
 
 
