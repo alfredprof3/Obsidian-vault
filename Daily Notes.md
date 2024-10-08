@@ -1,3 +1,5 @@
+### 07-10-2024, Monday
+- entry
 ### 05-10-2024, Saturday
 - ###### Cronología de orden para temas de Branding
 	- Análisis de marca de **Red Bull**, **Apple**, **Amazon**, **Microsoft**, **Samsung**, y **Toyota**
