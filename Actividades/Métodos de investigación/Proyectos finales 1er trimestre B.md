@@ -17,3 +17,31 @@ Yetzirah Mihael Litzow Díaz - Desarrollo del logotipo para el videojuego Cardch
 Kenia Alexia Lopéz Barrios - Fotografía de modelo (3) + catálogo + portafolio
 Vanesa Guadarrama Castro - Agenda personalizada desde 0 + fotografía para RRSS + página web
 Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de repostería + Diseño de logos para una repostería
+
+## Empaque y Embalaje
+
+## Ilustración
+
+## Catálogos
+
+## Creación de contenido
+
+## Branding y branding personal
+
+## Impresión y artes gráficas
+
+## Comic
+
+## Fotografía
+
+## Diseño de moda
+
+## Artes plásticas (agenda)
+
+## Diseño web
+
+## Textura y patrones
+
+## Diseño de cartel
+
+## Diseño editorial
