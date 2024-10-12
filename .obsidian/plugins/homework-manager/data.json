@@ -1,5 +1,10 @@
 {
-  "Diseño UX/UI": {},
+  "Diseño UX/UI": {
+    "Terminar el diagrama de flujo": {
+      "page": "",
+      "date": ""
+    }
+  },
   "Gestion de RRSS": {
     "Llevar productos para crear contenido": {
       "page": "",
@@ -19,6 +24,16 @@
       "date": ""
     }
   },
-  "Creatividad": {},
-  "Taller Pro IV": {}
+  "Creatividad": {
+    "Juegos con legos": {
+      "page": "",
+      "date": ""
+    }
+  },
+  "Taller Pro IV": {
+    "Actividades con photoshop": {
+      "page": "",
+      "date": ""
+    }
+  }
 }
