@@ -29,6 +29,10 @@
 	- Venta de productos de maquillaje natural
 	- Venta de decoración para el hogar
 
+###### Ejercicios de medio digitales #mediosdigitales
+
+- Edición de producto para RRSS
+
 ## 05-10-2024, Saturday
 
 - ###### Cronología de orden para temas de #Branding
