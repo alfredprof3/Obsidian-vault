@@ -1,6 +1,6 @@
 ## 11-10-2024, Friday
 
-- ###### Los 3 principales pasos para el desarrollo de una metodología y gestión de un proyecto #Metodos #humanitas
+- ###### Los 3 principales pasos para el desarrollo de una metodología y gestión de un proyecto #metodosinvestigacion
 
 	- Planeación
 		1. Contacto con el cliente (brief)
@@ -19,7 +19,7 @@
 		1. Adaptaciones para impresión o digital
 		2. Exportación
 
-- ###### Ideas para #tienda en #línea
+- ###### Ideas para para ecommerce #tiendaonline
 
 	- Servicios de cuidado para mascotas
 	- Plataforma de venta de cursos y talleres
@@ -29,7 +29,7 @@
 	- Venta de productos de maquillaje natural
 	- Venta de decoración para el hogar
 
-###### Ejercicios de medio digitales #mediosdigitales
+###### Ejercicios de para medios digitales #mediosdigitales
 
 - Edición de producto para RRSS
 
