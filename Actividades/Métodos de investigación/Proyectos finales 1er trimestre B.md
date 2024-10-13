@@ -1,3 +1,7 @@
+
+
+
+
 Hiromy Danahi Andueza Herrera - Embalaje personalizado y diseño de logos (marca)
 Tamara Garcia Vazquez - Ilustración, hacer historia para un comic
 Narda Yañes - Ilustración, catálogo muestrario con diferentes flores
@@ -20,9 +24,21 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 ## Empaque y Embalaje
 
+<iframe src="https://www.behance.net/embed/project/209092999?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/176585675?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+
 ## Ilustración
 
+<iframe src="https://www.behance.net/embed/project/178936203?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
 ## Catálogos
+
+<iframe src="https://www.behance.net/embed/project/202080943?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
 
 ## Creación de contenido
 
@@ -41,6 +57,10 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 ## Diseño web
 
 ## Textura y patrones
+
+<iframe src="https://www.behance.net/embed/project/187016199?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+
 
 ## Diseño de cartel
 
