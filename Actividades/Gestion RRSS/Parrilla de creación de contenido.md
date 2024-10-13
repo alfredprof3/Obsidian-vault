@@ -8,10 +8,32 @@ Generar contenido visual (vídeos e imágenes) con los siguientes objetivos.
 
 ##### Lugares para entrevistar
 
-1. ZH en el pasillo de forum
-2. Avenida Nader
-3. Malecón Tajamar
-4. Plaza Las Américas
+| Lugar                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Variado                                                                                                                                                                                                                                                   |
+| [Malecón Tajamar](https://maps.app.goo.gl/mhZrxRQdEeRc2BFSA)                                                                                                                                                                                              |
+| [Plaza Las Américas](https://maps.app.goo.gl/N2PYgSctW9f9o8Fa6)                                                                                                                                                                                           |
+| [KM 0 (Zona Hotelera)](https://www.waze.com/en/live-map/directions?latlng=21.156478502946033%2C-86.81930780410768)                                                                                                                                        |
+| [Go Riviera Outlet](https://www.waze.com/en/live-map/directions/mx/q.r./go-grand-outlet-riviera-maya?place=ChIJ4QUP2FCBTo8RpFJK8MpZU9M)                                                                                                                   |
+| [Playa Delfines](https://ul.waze.com/ul?preview_venue_id=179044563.1790576698.1047557&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)                                                                             |
+| [Playa Marlin](https://ul.waze.com/ul?place=ChIJs-vkzF0oTI8RkPEJ3UlYx_I&ll=21.10335120%2C-86.76323010&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)                                                             |
+| [Coco Bongo](https://www.waze.com/en/live-map/directions/coco-bongo-blvd.-kukulcan-cancun?place=w.179110099.1790773313.643595)                                                                                                                            |
+| [Plaza Forum](https://www.waze.com/en/live-map/directions/mx/q.r./cancun/forum-by-the-sea?place=ChIJjbEqz5goTI8RgCMLVZU-oBM)                                                                                                                              |
+| [Parque de las Palapas](https://www.waze.com/en/live-map/directions/parque-de-las-palapas-cancun?place=w.179044564.1790249028.744022)                                                                                                                     |
+| Parque                                                                                                                                                                                                                                                    |
+| [Plaza Outlet](https://www.waze.com/en/live-map/directions/mx/q.r./cancun/las-plazas-outlet-cancun?place=ChIJj14R00crTI8Ru_vlX9qEeas)                                                                                                                     |
+| Salón                                                                                                                                                                                                                                                     |
+| Cancha                                                                                                                                                                                                                                                    |
+| Cafetería                                                                                                                                                                                                                                                 |
+| [Puerto Cancún](https://ul.waze.com/ul?place=ChIJCYI9w7EuTI8RbHIAnoKSNys&ll=21.16027820%2C-86.80853920&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)                                                            |
+| Universidad                                                                                                                                                                                                                                               |
+| Food Trucks Huayacán                                                                                                                                                                                                                                      |
+| [SliceDice & Pizza](https://www.waze.com/en/live-map/directions/mx/q.r./cancun/master-plaza?place=ChIJsxpj3KErTI8RLgmLeHMnlkk)                                                                                                                            |
+| [Los Hochos del Bro](https://www.waze.com/en/live-map/directions/los-hochos-del-bro-calle-altavista-33-cancun?place=w.179044563.1790117954.16232009)                                                                                                      |
+| Santa Fe                                                                                                                                                                                                                                                  |
+| [Cafe del Profesor](https://www.waze.com/en/live-map/directions/mx/q.r./cancun/cafe-del-profesor?place=ChIJPyXjseIrTI8RSBkuxOTxZ1Y)                                                                                                                       |
+| Escuela 8 octubre, Región 96                                                                                                                                                                                                                              |
+| [Avenida Nader](https://www.waze.com/en/live-map/directions/mx/q.r./cancun/avenida-carlos-nader?place=EjtBdiBDYXJsb3MgTmFkZXIgU3VwZXJtYW56YW5hIDMsIDc3NTAwIENhbmPDum4sIFEuUi4sIE1leGljbyIuKiwKFAoSCWctSLEBLEyPEU2agDAg0EkUEhQKEgn3v3YDACxMjxEf4a_-36abPA) |
 
 ##### Preguntas sobre
 
