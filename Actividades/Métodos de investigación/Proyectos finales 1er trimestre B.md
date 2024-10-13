@@ -28,6 +28,11 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/176585675?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
+<iframe src="https://www.behance.net/embed/project/208855369?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/207433413?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/209037689?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Ilustración
 
@@ -39,12 +44,26 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/202080943?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
+<iframe src="https://www.behance.net/embed/project/206077815?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
 
 ## Creación de contenido
 
 ## Branding y branding personal
 
+<iframe src="https://www.behance.net/embed/project/208745835?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/207933731?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/208855369?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+
 ## Impresión y artes gráficas
+
+<iframe src="https://www.behance.net/embed/project/149377179?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/207153799?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
 
 ## Comic
 
@@ -52,7 +71,15 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 ## Diseño de moda
 
+<iframe src="https://www.behance.net/embed/project/207153799?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
 ## Artes plásticas (agenda)
+
+<iframe src="https://www.behance.net/embed/project/206033043?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/207703365?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+
 
 ## Diseño web
 
@@ -60,6 +87,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/187016199?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
+<iframe src="https://www.behance.net/embed/project/208380035?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 
 ## Diseño de cartel
