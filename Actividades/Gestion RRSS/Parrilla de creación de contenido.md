@@ -71,7 +71,6 @@ Generar contenido visual (vídeos e imágenes) con los siguientes objetivos.
 	3. ¿Cuál sería el promedio de dinero que gastas al día?
 	4. ¿Consideras caros los restaurantes de Cancún?
 
-
 #### Reviews sobre comida local en Cancún
 
 1. Tacos sobre la avenida 135
