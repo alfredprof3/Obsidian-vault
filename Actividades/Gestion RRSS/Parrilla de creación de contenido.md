@@ -121,3 +121,13 @@ Ideas de plan: sobre las personas entrevistadas que hayan proporcionado una reco
 |[Avenida Nader](https://maps.app.goo.gl/aesFoze4MZAjDFVNA)|
 |[Malecón Tajamar](https://ul.waze.com/ul?ll=21.14693276%2C-86.81455493&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)|
 |[Plaza Las Américas](https://maps.app.goo.gl/qovtw1wovRNST8MW7)|
+
+
+|                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Zona Hotelera (pasillo plaza forum)](https://ul.waze.com/ul?ll=21.13284317%2C-86.74710274&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location) |
+| [Avenida Nader](https://maps.app.goo.gl/aesFoze4MZAjDFVNA)                                                                                                                         |
+| [Malecón Tajamar](https://ul.waze.com/ul?ll=21.14693276%2C-86.81455493&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location)                     |
+| [Plaza Las Américas](https://maps.app.goo.gl/qovtw1wovRNST8MW7)                                                                                                                    |
+
+
