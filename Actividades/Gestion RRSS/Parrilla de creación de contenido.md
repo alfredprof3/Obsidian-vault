@@ -105,3 +105,10 @@ Ideas de plan: sobre las personas entrevistadas que hayan proporcionado una reco
 
 **Alcance:**
 **Interacciones:**
+
+| Alumnos |               Materia                | Calificación |
+| :------ | :----------------------------------: | :----------: |
+| Juan    |                Diseño                |      10      |
+| Bety    | Arquitectura en diseño de interiores |      8       |
+|         |                                      |              |
+[Zona Hotelera](https://maps.app.goo.gl/qovtw1wovRNST8MW7)
