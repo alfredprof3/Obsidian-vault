@@ -101,7 +101,11 @@ Ideas de plan: sobre las personas entrevistadas que hayan proporcionado una reco
 
 #### Medición y análisis
 
-##### Resultados del primer período (16 septiembre - 16 octubre)
+### Resultados del primer período (16 septiembre - 16 octubre)
 
 **Alcance:**
 **Interacciones:**
+
+### Parrilla excel
+
+<iframe src="https://docs.google.com/spreadsheets/d/1Gs18zTdx2LIbh3rzsaeR7XabhiXeQrfO/edit?usp=sharing&amp;ouid=114210090185503887563&amp;rtpof=true&amp;sd=true" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
