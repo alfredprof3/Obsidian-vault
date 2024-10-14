@@ -76,6 +76,11 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/207153799?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
+[Sublimación de taza](https://www.tiktok.com/@polituccentro/video/7358905786547834117?is_from_webapp=1&sender_device=pc&web_id=7425480874316383750)
+
+[Sublimación de calcetín](https://www.tiktok.com/@sublima2pro0/video/7384639142006918406?is_from_webapp=1&sender_device=pc&web_id=7425480874316383750)
+
+<iframe src="https://www.behance.net/embed/project/208099271?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Comic
 
@@ -84,6 +89,14 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 ## Diseño de moda
 
 <iframe src="https://www.behance.net/embed/project/207153799?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/207761565?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/207043975?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/207619077?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/208012193?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Artes plásticas (agenda)
 
