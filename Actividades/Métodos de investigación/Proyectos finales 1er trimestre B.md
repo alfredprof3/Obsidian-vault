@@ -1,7 +1,5 @@
 
 
-
-
 Hiromy Danahi Andueza Herrera - Embalaje personalizado y diseño de logos (marca)
 Tamara Garcia Vazquez - Ilustración, hacer historia para un comic
 Narda Yañes - Ilustración, catálogo muestrario con diferentes flores
@@ -38,7 +36,13 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/178936203?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
+<iframe src="https://www.behance.net/embed/project/209428787?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
+<iframe src="https://www.behance.net/embed/project/207245117?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/206438625?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/208101203?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Catálogos
 
@@ -46,6 +50,11 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/206077815?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
+<iframe src="https://www.behance.net/embed/project/170881761?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/208518607?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/124500391?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Creación de contenido
 
@@ -57,6 +66,9 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/208855369?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
+<iframe src="https://marcocreativo.es/proyecto/kane-cruz/" allow="fullscreen" allowfullscreen="" style="height: 50%; width: 50%; aspect-ratio: 4 / 3;"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/208149165?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Impresión y artes gráficas
 
@@ -93,3 +105,9 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 ## Diseño de cartel
 
 ## Diseño editorial
+
+## Portfolio ideas
+
+<iframe src="https://www.behance.net/embed/project/189617081?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/201310063?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
