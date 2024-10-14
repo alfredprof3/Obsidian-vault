@@ -66,7 +66,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/208855369?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-<iframe src="https://marcocreativo.es/proyecto/kane-cruz/" allow="fullscreen" allowfullscreen="" style="height: 50%; width: 50%; aspect-ratio: 4 / 3;"></iframe>
+
 
 <iframe src="https://www.behance.net/embed/project/208149165?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
