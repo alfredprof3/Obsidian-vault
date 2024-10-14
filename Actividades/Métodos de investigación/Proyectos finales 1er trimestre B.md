@@ -20,7 +20,7 @@ Kenia Alexia Lopéz Barrios - Fotografía de modelo (3) + catálogo + portafolio
 Vanesa Guadarrama Castro - Agenda personalizada desde 0 + fotografía para RRSS + página web
 Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de repostería + Diseño de logos para una repostería
 
-## Empaque y Embalaje #finished
+## Empaque y Embalaje
 
 <iframe src="https://www.behance.net/embed/project/209092999?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -32,7 +32,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/209037689?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-## Ilustración #finished
+## Ilustración
 
 <iframe src="https://www.behance.net/embed/project/178936203?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -44,7 +44,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/208101203?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-## Catálogos #finished
+## Catálogos
 
 <iframe src="https://www.behance.net/embed/project/202080943?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -58,7 +58,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 ## Creación de contenido
 
-## Branding y branding personal #finished
+## Branding y branding personal
 
 <iframe src="https://www.behance.net/embed/project/208745835?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -70,7 +70,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/208149165?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-## Impresión y artes gráficas #finished
+## Impresión y artes gráficas
 
 <iframe src="https://www.behance.net/embed/project/149377179?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -82,7 +82,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/208099271?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-## Comic #finished
+## Comic
 
 <iframe src="https://www.behance.net/embed/project/209232587?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -94,7 +94,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/200152677?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
  
-## Fotografía #finished
+## Fotografía
 
 <iframe src="https://www.behance.net/embed/project/208442491?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -106,7 +106,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/207475507?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-## Diseño de moda #finished
+## Diseño de moda
 
 <iframe src="https://www.behance.net/embed/project/37422467?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -118,7 +118,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/93392191?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-## Artes plásticas #finished
+## Artes plásticas
 
 <iframe src="https://www.behance.net/embed/project/206033043?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -130,7 +130,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/165082991?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-## Diseño web #finished
+## Diseño web
 
 <iframe src="https://www.behance.net/embed/project/206775417?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -142,7 +142,7 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/159711761?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-## Textura y patrones #finished
+## Textura y patrones
 
 <iframe src="https://www.behance.net/embed/project/187016199?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -160,8 +160,23 @@ Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de reposter
 
 <iframe src="https://www.behance.net/embed/project/182493583?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
-https://www.behance.net/gallery/192648009/Cartel-cancer-de-mama?tracking_source=search_projects|cartel&l=10
+<iframe src="https://www.behance.net/embed/project/192648009?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/57929083?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/209403219?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
 ## Diseño editorial
+
+<iframe src="https://www.behance.net/embed/project/179653155?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/166252719?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/200317579?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/208488415?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+<iframe src="https://www.behance.net/embed/project/155519765?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 ## Portfolio ideas
 
