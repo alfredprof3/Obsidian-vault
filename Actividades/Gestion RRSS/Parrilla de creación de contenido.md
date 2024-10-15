@@ -136,3 +136,39 @@ Ideas de plan: sobre las personas entrevistadas que hayan proporcionado una reco
 ## Reporte de estadísticas
 ## Reporte de actividades
 ## Presentación (PPT) de resultados
+
+## Historias
+
+- Diversificar: tener 4 opciones como mínimo de historias. Cada una se puede utilizar 1 o 2 veces
+### Opción 1
+
+1. Se empieza con una portada para generar retención. Sugerencia: se pueden utilizar hooks
+2. Compartir hasta 3 historias de valor para seguir reteniendo a la audencia.
+3. Pasar a un contenido de posicionamiento o de venta; testimonios, logros, eventos o influencers. En este punto generamos confianza.
+4. Llamada a la acción. Aquí ofrecemos.
+#### Ventajas de esta primera opción
+
+Se hacen en una sola historia y luego se eliminan
+
+#### Objetivo
+
+Conseguir un mayor tiempo de retención. Coservar la atención de la audencia para que funcione.
+
+### Opción 2
+
+1. La primera historia debe generar interacción. Dar like, responder, reaccionar o participar en alguna encuesta, cuestionario o casilla de preguntas. Ayudará a elevar las primeras visualizaciones.
+2. Usar una historia motivacional o divertida, incluso informativa para lograr la retención y si se puede la interacción
+3. Anterior al punto 2 se va a usar en este paso un storytelling (storytime) con el objetivo de generar una conversión o un CTA
+4. En este punto como ya se conto un storytelling (storytime) se puede insertar el CTA para así, asegurar la conversión mediante un punto de contacto o compra.
+5. Usar una historia motivacional, divertida o informativa reforzar la retención e interacción.
+6. Finalizar con un llamado al acción más directo para el cerrar este ciclo de historias.
+
+#### Ventajas
+
+Las historias se mantienen regadas durante el día en diferentes espacios del día. Se recomienda usar cuando son viajes, eventos o experiencias.
+
+#### Objetivo
+
+Conseguir un mayor número de retención y realizar conversiones con llamados a la acción.
+
+### Opción 3
