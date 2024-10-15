@@ -88,8 +88,11 @@ Tiempo de duración de los podcast: 15 a 20 minutos como máximo
 
 ### KPIs
 
-1. Alcance
-2. Interacciones
+1. Alcance (Reach)
+2. Interacciones (engagement)
+3. Impresiones (Impressions)
+4. Tasa de clics (CTR - Clics Through Rate)
+5. Tasa de crecimiento
 
 ### Estrategia
 
@@ -126,3 +129,10 @@ Ideas de plan: sobre las personas entrevistadas que hayan proporcionado una reco
 
 **Alcance:**
 **Interacciones:**
+
+
+## Plan para estrategia de creación de contenido
+## Parrilla de contenido
+## Reporte de estadísticas
+## Reporte de actividades
+## Presentación (PPT) de resultados
