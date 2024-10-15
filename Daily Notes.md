@@ -1,5 +1,23 @@
 ## 15-10-2024, Tuesday
-- entry
+- Valores
+	1. Empoderamiento
+	2. Confianza en la persona misma
+	3. Personalización
+	4. Distinción
+- Fortalezas
+	1. Promociones en días específicos
+	2. Servicios a domicilio
+	3. Compensación por fidelidad del cliente
+	4. Servicio adicionales incluidos en el servicio base: limpieza facial o depilado de cejas
+- Competencia directa e indirecta
+	1. Directa:
+	2. Indirecta: **Betita Osto**
+- Cultural
+	- Zona geográfica:
+- Política
+	- Zona geográfica:
+- Social
+	- Zona geográfica:
 ## 11-10-2024, Friday
 
 - ###### Los 3 principales pasos para el desarrollo de una metodología y gestión de un proyecto #metodosinvestigacion
