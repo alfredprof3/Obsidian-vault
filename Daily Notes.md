@@ -1,10 +1,12 @@
+## 15-10-2024, Tuesday
+- entry
 ## 11-10-2024, Friday
 
 - ###### Los 3 principales pasos para el desarrollo de una metodología y gestión de un proyecto #metodosinvestigacion
 
 	- Planeación
 		1. Contacto con el cliente (brief)
-		2. Análisis
+		2. Análisis (ideas)
 		3. Presupuesto
 		4. Contratación y anticipo
 		5. Planeación y organización
