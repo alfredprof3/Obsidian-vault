@@ -92,7 +92,9 @@ Tiempo de duración de los podcast: 15 a 20 minutos como máximo
 2. Interacciones (engagement)
 3. Impresiones (Impressions)
 4. Tasa de clics (CTR - Clics Through Rate)
-5. Tasa de crecimiento
+5. Tasa de crecimiento de seguidores (Follower Growth Rate)
+6. Tasa de conversión (Conversion Rate)
+7. Tasa de retención (Retention Rate)
 
 ### Estrategia
 
