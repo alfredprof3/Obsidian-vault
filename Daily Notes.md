@@ -1,5 +1,22 @@
 ## 16-10-2024, Wednesday
-- entry
+- ###### Creatividad: hacer 2 cubos-pirámide-cubo rectángulo-esferas en isométricos y 2 cubos- pirámide-cubo rectángulo-esferas a punto de fuga.
+	- Cubo: 2 isométricos y 2 a punto de fuga
+	- Pirámide: 2 isométricos y 2 a punto de fuga
+	- Cubo rectángulo:
+	- Esfera: 
+	- Alondra: 2 cubos a isométrico, 2 pirámides a punto de fuga y 1 pirámide en isométrico
+	- Diego: 1 isométrico cubo y 1 punto de fuga cubo
+	- Arath: 1 cubo a punto de fuga, 1 cubo a isométrico
+	- Nicole: 2 cubos a punto de fuga, 2 cubos a isométrico, 2 pirámides a punto de fuga, 2 pirámides a isométrico, 1 esfera a isométrico
+	- Orlando: 2 cubos rectángulos a isométrico, 2 pirámides a isométrico
+	- Ximena: 1 pirámide a punt de fuga, 1 cubo rectángulo a punto de fuga, 1 cubo rectángulo a isométrico, 2 cubos a isométrico
+	- Sofia: 2 cubo rectángulo a punto de fuga, 2 cubos a isométrico
+	- Jared: 2 cubos a isométrico, 2 cubos a punto de fuga, 2 pirámides a isométrico, 2 pirámides a punto de fuga
+	- Michelle: 2 pirámides a punto de fuga, 2 pirámides a isométrico, 2 cubos a isométrico, 2 cubos rectángulo a punto de fuga, 2 cubos rectángulo a isométrico
+	- Victor: 1 esfera a isométrico, 2 pirámides a punto de fuga, 2 cubos a punto de fuga
+	- Alejandro: 2 cubos a punto de fuga, 1 cubo rectángulo a isométrico, 1 cubo a isométrico, 2 pirámides a punto de fuga, 2 pirámides a isométrico
+	- Regina: 2 cubos a isométrico, 2 cubos rectángulos a punto de fuga, 2 cubos a punto de fuga
+	- Monse: 2 cubos a isométrico, 2 cubos a punto de fuga
 ## 15-10-2024, Tuesday
 - Valores
 	1. Empoderamiento

@@ -1,5 +1,3 @@
-
-
 Hiromy Danahi Andueza Herrera - Embalaje personalizado y diseño de logos (marca)
 Tamara Garcia Vazquez - Ilustración, hacer historia para un comic
 Narda Yañes - Ilustración, catálogo muestrario con diferentes flores
@@ -19,6 +17,7 @@ Yetzirah Mihael Litzow Díaz - Desarrollo del logotipo para el videojuego Cardch
 Kenia Alexia Lopéz Barrios - Fotografía de modelo (3) + catálogo + portafolio
 Vanesa Guadarrama Castro - Agenda personalizada desde 0 + fotografía para RRSS + página web
 Vaca Gonzalez Angelica Alejandra - Empaque y embalaje para productos de repostería + Diseño de logos para una repostería
+Danna Fernanda Campos López - Desarrollo de identidad visual para "_Botaniux_" solamente catálogo y uniformes
 
 ## Empaque y Embalaje
 
