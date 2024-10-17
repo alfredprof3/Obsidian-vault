@@ -1,4 +1,5 @@
 ## 16-10-2024, Wednesday
+4
 - ###### Creatividad: hacer 2 cubos-pirámide-cubo rectángulo-esferas en isométricos y 2 cubos- pirámide-cubo rectángulo-esferas a punto de fuga.
 	- Cubo: 2 isométricos y 2 a punto de fuga
 	- Pirámide: 2 isométricos y 2 a punto de fuga
@@ -18,6 +19,7 @@
 	- Regina: 2 cubos a isométrico, 2 cubos rectángulos a punto de fuga, 2 cubos a punto de fuga
 	- Monse: 2 cubos a isométrico, 2 cubos a punto de fuga
 ## 15-10-2024, Tuesday
+
 - Valores
 	1. Empoderamiento
 	2. Confianza en la persona misma
@@ -37,6 +39,7 @@
 	- Zona geográfica:
 - Social
 	- Zona geográfica:
+
 ## 11-10-2024, Friday
 
 - ###### Los 3 principales pasos para el desarrollo de una metodología y gestión de un proyecto #metodosinvestigacion
