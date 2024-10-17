@@ -88,13 +88,20 @@ Tiempo de duración de los podcast: 15 a 20 minutos como máximo
 
 ### KPIs
 
-1. Alcance (Reach)
-2. Interacciones (engagement)
-3. Impresiones (Impressions)
-4. Tasa de clics (CTR - Clics Through Rate)
-5. Tasa de crecimiento de seguidores (Follower Growth Rate)
-6. Tasa de conversión (Conversion Rate)
-7. Tasa de retención (Retention Rate)
+1. **Alcance (Reach)**
+	- Mide cuántas personas han visto tus publicaciones. Es crucial para entender cuán lejos llega tu contenido
+2. **Interacciones (engagement)**
+	- Incluye likes, comentarios, compartidos y cualquier otra forma de interacción con tu contenido. Una alta tasa de interacción indica que tu audiencia encuentra valioso tu contenido.
+3.  **Impresiones (Impressions)**
+	- Indica cuántas veces se ha mostrado tu contenido, sin importar si fue visto por la misma persona varias veces.c
+4. **Tasa de clics (CTR - Clics Through Rate)**
+	- Mide el porcentaje de personas que hicieron clic en un enlace en tu publicación. Es útil para evaluar la efectividad de tus llamadas a la acción.
+5. **Tasa de crecimiento de seguidores (Follower Growth Rate)**
+	- Mide el aumento de tus seguidores en un período de tiempo. Es un buen indicador de la popularidad y el alcance de tu marca.
+6. **Tasa de conversión (Conversion Rate)**
+	- Mide el porcentaje de usuarios que realizan una acción deseada (como suscribirse a un boletín o realizar una compra) después de interactuar con tu contenido en redes sociales.
+7. **Tasa de retención (Retention Rate)**
+	- Mide cuántos de tus seguidores permanecen activos y comprometidos con tu contenido a lo largo del tiempo
 
 ### Estrategia
 
