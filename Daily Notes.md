@@ -1,3 +1,5 @@
+## 18-10-2024, Friday
+- entry
 ## 15-10-2024, Tuesday
 - Valores
 	1. Empoderamiento
