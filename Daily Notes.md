@@ -1,5 +1,5 @@
 ## 18-10-2024, Friday
-- entry
+- Mongge.com para hacer tutoriales de dibujos
 ## 16-10-2024, Wednesday
 - ###### Creatividad: hacer 2 cubos-pirámide-cubo rectángulo-esferas en isométricos y 2 cubos- pirámide-cubo rectángulo-esferas a punto de fuga.
 	- Cubo: 2 isométricos y 2 a punto de fuga
