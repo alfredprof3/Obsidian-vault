@@ -1,3 +1,5 @@
+## 18-10-2024, Friday
+- entry
 ## 16-10-2024, Wednesday
 - ###### Creatividad: hacer 2 cubos-pirámide-cubo rectángulo-esferas en isométricos y 2 cubos- pirámide-cubo rectángulo-esferas a punto de fuga.
 	- Cubo: 2 isométricos y 2 a punto de fuga
@@ -81,6 +83,7 @@
 	- Leyes de la psicología **Gestlat**
 	- Psicología de formas
 	- Psicología de color
+	- Crear su logotipo a partir de los valores de marca, descripción y público objetivo. Filtrar las palabras clave hasta quedarse con 3. Representar con psicología de formas las 3 palabras clave para ir moldeando el símbolo 
 	- Clasificación de marcas y características
 	- Legalidad de las marcas
 	- Manual de identidad visual
