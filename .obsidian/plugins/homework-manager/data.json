@@ -1,10 +1,5 @@
 {
-  "Diseño UX/UI": {
-    "Terminar el diagrama de flujo": {
-      "page": "",
-      "date": ""
-    }
-  },
+  "Diseño UX/UI": {},
   "Gestion de RRSS": {
     "Llevar productos para crear contenido": {
       "page": "",
@@ -15,6 +10,14 @@
   "Tienda Online": {
     "Hacer pruebas para tienda en línea con los programas de shopify": {
       "page": "Daily Notes.md",
+      "date": ""
+    },
+    "Figma to wordpress": {
+      "page": "",
+      "date": ""
+    },
+    "Hacer ejercicios para sus tiendas online": {
+      "page": "",
       "date": ""
     }
   },

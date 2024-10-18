@@ -1,5 +1,25 @@
 ## 18-10-2024, Friday
 - entry
+## 16-10-2024, Wednesday
+- ###### Creatividad: hacer 2 cubos-pirámide-cubo rectángulo-esferas en isométricos y 2 cubos- pirámide-cubo rectángulo-esferas a punto de fuga.
+	- Cubo: 2 isométricos y 2 a punto de fuga
+	- Pirámide: 2 isométricos y 2 a punto de fuga
+	- Cubo rectángulo:
+	- Esfera: 
+	- Alondra: 2 cubos a isométrico, 2 pirámides a punto de fuga y 1 pirámide en isométrico
+	- Diego: 1 isométrico cubo y 1 punto de fuga cubo
+	- Arath: 1 cubo a punto de fuga, 1 cubo a isométrico
+	- Nicole: 2 cubos a punto de fuga, 2 cubos a isométrico, 2 pirámides a punto de fuga, 2 pirámides a isométrico, 1 esfera a isométrico
+	- Orlando: 2 cubos rectángulos a isométrico, 2 pirámides a isométrico
+	- Ximena: 1 pirámide a punt de fuga, 1 cubo rectángulo a punto de fuga, 1 cubo rectángulo a isométrico, 2 cubos a isométrico
+	- Sofia: 2 cubo rectángulo a punto de fuga, 2 cubos a isométrico
+	- Jared: 2 cubos a isométrico, 2 cubos a punto de fuga, 2 pirámides a isométrico, 2 pirámides a punto de fuga
+	- Michelle: 2 pirámides a punto de fuga, 2 pirámides a isométrico, 2 cubos a isométrico, 2 cubos rectángulo a punto de fuga, 2 cubos rectángulo a isométrico
+	- Victor: 1 esfera a isométrico, 2 pirámides a punto de fuga, 2 cubos a punto de fuga
+	- Alejandro: 2 cubos a punto de fuga, 1 cubo rectángulo a isométrico, 1 cubo a isométrico, 2 pirámides a punto de fuga, 2 pirámides a isométrico
+	- Regina: 2 cubos a isométrico, 2 cubos rectángulos a punto de fuga, 2 cubos a punto de fuga
+	- Monse: 2 cubos a isométrico, 2 cubos a punto de fuga
+
 ## 15-10-2024, Tuesday
 - Valores
 	1. Empoderamiento
@@ -20,8 +40,8 @@
 	- Zona geográfica:
 - Social
 	- Zona geográfica:
-## 11-10-2024, Friday
 
+## 11-10-2024, Friday
 - ###### Los 3 principales pasos para el desarrollo de una metodología y gestión de un proyecto #metodosinvestigacion
 
 	- Planeación
@@ -56,7 +76,6 @@
 - Edición de producto para RRSS
 
 ## 05-10-2024, Saturday
-
 - ###### Cronología de orden para temas de #Branding
 
 	- Análisis de marca de **Red Bull**, **Apple**, **Amazon**, **Microsoft**, **Samsung**, y **Toyota**
@@ -64,13 +83,13 @@
 	- Leyes de la psicología **Gestlat**
 	- Psicología de formas
 	- Psicología de color
+	- Crear su logotipo a partir de los valores de marca, descripción y público objetivo. Filtrar las palabras clave hasta quedarse con 3. Representar con psicología de formas las 3 palabras clave para ir moldeando el símbolo 
 	- Clasificación de marcas y características
 	- Legalidad de las marcas
 	- Manual de identidad visual
 	- Gestión de la marca
 
 ## 01-10-2024, Tuesday
-
 - ###### Terminar de configurar la tienda de Shopify con los diferentes #plugins "Page builders" y Figma to Shopify
 
 	- PageFly Landing Page Builder
