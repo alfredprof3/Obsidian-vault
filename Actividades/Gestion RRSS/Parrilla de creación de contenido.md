@@ -183,6 +183,8 @@ Conseguir un mayor número de retención y realizar conversiones con llamados a 
 ### Opción 3
 
 1. Crear un vídeo con un buen hook y portada para generar retención.
+2. Aquí va un CTA. En este puede ser alguna persona con texto o subtítulos e incluso diseño gráfico.
+3. Aquí también va un CTA y se puede usar diseño gráfico.
 
 #### Pro
 
@@ -199,3 +201,11 @@ Si el alcance no esta muy bien en general por parte de las historias, es conveni
 #### La idea
 
 Crear vídeos de 15 segundos, 1 minuto o hasta 1 minuto y medio como máximo. Debe tener subtítulos.
+
+### Opción 4
+
+1. En este vídeo se busca hacer un CTA directo.
+
+#### Tip
+
+Este tiene muy buen resultado siempre y cuando ya tengamos la atención de la audiencia. Suele tener un buen alcance junto con un buen número de clics. No es una opción viable para hacerlo más de dos veces a la semana.
