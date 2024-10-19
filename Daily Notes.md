@@ -1,3 +1,17 @@
+## 19-10-2024, Saturday
+- ### Branding Sabatino
+	- #### Redy
+		- Descripción:
+		- Valores de marca:
+		- Público objetivo:
+	- #### Sergio
+		- Descripción
+		- Valores de marca:
+		- Público objetivo:
+	- #### Fany 
+		- Descripción:
+		- Valores de marca:
+		- Público objetivo:
 ## 18-10-2024, Friday
 - Mongge.com para hacer tutoriales de dibujos
 ## 16-10-2024, Wednesday
