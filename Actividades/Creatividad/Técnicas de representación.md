@@ -55,6 +55,8 @@ Proyectar en isométrico y a 1, 2 y 3 puntos de fuga, las siguientes figuras geo
 
 #### Isométrico
 
+<article style="position:relative;width:100%;height:0;padding-bottom:56.12033195020747%"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.mongge.com/en/exercises/93183/embed" title="Proyección de esfera a mano alzada en isométrico" allow="fullscreen" allowfullscreen frameborder="0"></iframe></article>
+[Proyección de esfera a mano alzada en isométrico usando dos técnicas diferentes](https://www.mongge.com/en/exercises/93183)
 
 #### 1 punto de fuga
 
