@@ -59,7 +59,15 @@ Proyectar en isométrico y a 1, 2 y 3 puntos de fuga, las siguientes figuras geo
 [Proyección de esfera a mano alzada en isométrico usando dos técnicas diferentes](https://www.mongge.com/en/exercises/93183)
 
 #### 1 punto de fuga
+Falta poner aquí esfera a 1 punto de fuga
 
+### 5. Elipses y óvalos
+
+#### Isométrico
+Proyección isométrica de elipses y óvalos
+
+#### 1 punto de fuga
+Proyección de elipses y óvalo a 1 punto de fuga
 
 ## Entregas alumnos
 
