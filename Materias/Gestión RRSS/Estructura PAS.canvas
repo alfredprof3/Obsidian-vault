@@ -1,0 +1,517 @@
+{
+  "nodes": [
+    {
+      "id": "300d5994eac98ed4",
+      "type": "text",
+      "text": "## 1",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -613,
+      "y": -260,
+      "width": 174,
+      "height": 60
+    },
+    {
+      "id": "3f3c154e335803d9",
+      "type": "text",
+      "text": "# Estructura PAS",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -640,
+      "y": -420,
+      "width": 228,
+      "height": 60
+    },
+    {
+      "id": "f5cb7bfa316afd49",
+      "type": "text",
+      "text": "## 2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -613,
+      "y": 200,
+      "width": 178,
+      "height": 60
+    },
+    {
+      "id": "db790ec42363eee8",
+      "type": "text",
+      "text": "## 3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -613,
+      "y": 640,
+      "width": 178,
+      "height": 60
+    },
+    {
+      "id": "eb3d1cd23f4fb2ca",
+      "type": "text",
+      "text": "#### Razón 1",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 200,
+      "width": 137,
+      "height": 60
+    },
+    {
+      "id": "dc07f32dfc570e1d",
+      "type": "text",
+      "text": "#### Razón 2",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 300,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "254fa79ff32f5a8a",
+      "type": "text",
+      "text": "#### Razón 3",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 400,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "f824ad54f5675353",
+      "type": "text",
+      "text": "#### Título",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 160,
+      "y": 580,
+      "width": 119,
+      "height": 60
+    },
+    {
+      "id": "5c9adca597addf03",
+      "type": "text",
+      "text": "\"Si quieres dejar de hacer campañas que no venden lo suficiente\"",
+      "styleAttributes": {},
+      "x": 160,
+      "y": -100,
+      "width": 525,
+      "height": 60
+    },
+    {
+      "id": "b59ec09d15f71747",
+      "type": "text",
+      "text": "**No logran vender lo suficiente con sus campañas**",
+      "styleAttributes": {},
+      "x": 160,
+      "y": -260,
+      "width": 419,
+      "height": 60
+    },
+    {
+      "id": "d7e159a1ea2ba940",
+      "type": "text",
+      "text": "### Problema",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -300,
+      "y": -260,
+      "width": 173,
+      "height": 60
+    },
+    {
+      "id": "d2062f4342abf56b",
+      "type": "text",
+      "text": "### Gancho",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -284,
+      "y": -100,
+      "width": 141,
+      "height": 60
+    },
+    {
+      "id": "1f986890c9913648",
+      "type": "text",
+      "text": "### Amplificación",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -300,
+      "y": 200,
+      "width": 201,
+      "height": 60
+    },
+    {
+      "id": "cebe2948254f1ac0",
+      "type": "text",
+      "text": "### Solución",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -300,
+      "y": 640,
+      "width": 151,
+      "height": 60
+    },
+    {
+      "id": "cd12e29e87ff7c5a",
+      "type": "text",
+      "text": "#### Beneficios deseados",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 160,
+      "y": 740,
+      "width": 255,
+      "height": 60
+    },
+    {
+      "id": "b5fbad804e58b3f7",
+      "type": "text",
+      "text": "**Entonces usa estas 5 técnicas de venta para tus campañas de marketing**",
+      "styleAttributes": {},
+      "x": 579,
+      "y": 580,
+      "width": 464,
+      "height": 58
+    },
+    {
+      "id": "4e0c00612efaca25",
+      "type": "text",
+      "text": "#### Implementación",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 160,
+      "y": 920,
+      "width": 218,
+      "height": 60
+    },
+    {
+      "id": "3bb15c6356432108",
+      "type": "text",
+      "text": "\"Y logres aumentar tus conversiones para que generes un retorno de inversión positivo\"",
+      "styleAttributes": {},
+      "x": 579,
+      "y": 740,
+      "width": 567,
+      "height": 57
+    },
+    {
+      "id": "14f3545806aa144a",
+      "type": "text",
+      "text": "##### Paso 1",
+      "styleAttributes": {},
+      "x": 579,
+      "y": 920,
+      "width": 116,
+      "height": 60
+    },
+    {
+      "id": "bafdad4112fddc08",
+      "type": "text",
+      "text": "##### Paso 2",
+      "styleAttributes": {},
+      "x": 579,
+      "y": 1040,
+      "width": 119,
+      "height": 60
+    },
+    {
+      "id": "d70c5d82b296709b",
+      "type": "text",
+      "text": "##### Paso 3",
+      "styleAttributes": {},
+      "x": 579,
+      "y": 1180,
+      "width": 119,
+      "height": 60
+    },
+    {
+      "id": "862e971958cdbc09",
+      "type": "text",
+      "text": "\"Porque estas perdiendo dinero\"",
+      "styleAttributes": {},
+      "x": 579,
+      "y": 200,
+      "width": 354,
+      "height": 60
+    },
+    {
+      "id": "6a14f6a46482a1c2",
+      "type": "text",
+      "text": "\"Tus clientes no confían en ti\"",
+      "styleAttributes": {},
+      "x": 579,
+      "y": 300,
+      "width": 315,
+      "height": 60
+    },
+    {
+      "id": "05f0b85305f8aee6",
+      "type": "text",
+      "text": "\"Y estas llevando tu negocio a la quiebra\"",
+      "styleAttributes": {},
+      "x": 579,
+      "y": 400,
+      "width": 357,
+      "height": 60
+    },
+    {
+      "id": "10ecef3705a1a883",
+      "type": "text",
+      "text": "\"Y por último haz esto...\"",
+      "styleAttributes": {},
+      "x": 853,
+      "y": 1180,
+      "width": 238,
+      "height": 60
+    },
+    {
+      "id": "852ebc5a4b6a65e2",
+      "type": "text",
+      "text": "\"Primero haz esto...\"",
+      "styleAttributes": {},
+      "x": 853,
+      "y": 920,
+      "width": 206,
+      "height": 60
+    },
+    {
+      "id": "d29f73954409867a",
+      "type": "text",
+      "text": "\"Segundo / después haz esto...\"",
+      "styleAttributes": {},
+      "x": 853,
+      "y": 1040,
+      "width": 287,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "3983a4d1a16edbe9",
+      "styleAttributes": {},
+      "fromNode": "3f3c154e335803d9",
+      "fromSide": "bottom",
+      "toNode": "300d5994eac98ed4",
+      "toSide": "top"
+    },
+    {
+      "id": "c6b6cbc2bed2255b",
+      "styleAttributes": {},
+      "fromNode": "300d5994eac98ed4",
+      "fromSide": "right",
+      "toNode": "d7e159a1ea2ba940",
+      "toSide": "left"
+    },
+    {
+      "id": "1edaf6ff73fedc9b",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star",
+        "arrow": null,
+        "path": null
+      },
+      "fromNode": "d7e159a1ea2ba940",
+      "fromSide": "right",
+      "toNode": "b59ec09d15f71747",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "0feb31eed685b3cb",
+      "styleAttributes": {},
+      "fromNode": "d7e159a1ea2ba940",
+      "fromSide": "bottom",
+      "toNode": "d2062f4342abf56b",
+      "toSide": "top"
+    },
+    {
+      "id": "029ba08d34f7f443",
+      "styleAttributes": {},
+      "fromNode": "d2062f4342abf56b",
+      "fromSide": "right",
+      "toNode": "5c9adca597addf03",
+      "toSide": "left"
+    },
+    {
+      "id": "f025f97d85260fdf",
+      "styleAttributes": {},
+      "fromNode": "300d5994eac98ed4",
+      "fromSide": "bottom",
+      "toNode": "f5cb7bfa316afd49",
+      "toSide": "top"
+    },
+    {
+      "id": "0dc60406b151edd4",
+      "styleAttributes": {},
+      "fromNode": "f5cb7bfa316afd49",
+      "fromSide": "right",
+      "toNode": "1f986890c9913648",
+      "toSide": "left"
+    },
+    {
+      "id": "5d3c9d3fedf63909",
+      "styleAttributes": {},
+      "fromNode": "1f986890c9913648",
+      "fromSide": "right",
+      "toNode": "eb3d1cd23f4fb2ca",
+      "toSide": "left"
+    },
+    {
+      "id": "ecf96d559cc74d44",
+      "styleAttributes": {},
+      "fromNode": "1f986890c9913648",
+      "fromSide": "right",
+      "toNode": "dc07f32dfc570e1d",
+      "toSide": "left"
+    },
+    {
+      "id": "e9f8c6d644ca5aae",
+      "styleAttributes": {},
+      "fromNode": "1f986890c9913648",
+      "fromSide": "right",
+      "toNode": "254fa79ff32f5a8a",
+      "toSide": "left"
+    },
+    {
+      "id": "930521169d1dee9c",
+      "styleAttributes": {
+        "pathfindingMethod": "a-star"
+      },
+      "fromNode": "eb3d1cd23f4fb2ca",
+      "fromSide": "right",
+      "toNode": "862e971958cdbc09",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "a509422c8e84046f",
+      "styleAttributes": {},
+      "fromNode": "dc07f32dfc570e1d",
+      "fromSide": "right",
+      "toNode": "6a14f6a46482a1c2",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "8577cd89f279648b",
+      "styleAttributes": {},
+      "fromNode": "254fa79ff32f5a8a",
+      "fromSide": "right",
+      "toNode": "05f0b85305f8aee6",
+      "toSide": "left",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "26ac5ce6d62c4a5d",
+      "styleAttributes": {},
+      "fromNode": "f5cb7bfa316afd49",
+      "fromSide": "bottom",
+      "toNode": "db790ec42363eee8",
+      "toSide": "top"
+    },
+    {
+      "id": "b77949b7f3279ebe",
+      "styleAttributes": {},
+      "fromNode": "db790ec42363eee8",
+      "fromSide": "right",
+      "toNode": "cebe2948254f1ac0",
+      "toSide": "left"
+    },
+    {
+      "id": "4ed3746243ce99ad",
+      "styleAttributes": {},
+      "fromNode": "cebe2948254f1ac0",
+      "fromSide": "right",
+      "toNode": "f824ad54f5675353",
+      "toSide": "left"
+    },
+    {
+      "id": "1578dedde01dff7d",
+      "styleAttributes": {},
+      "fromNode": "cebe2948254f1ac0",
+      "fromSide": "right",
+      "toNode": "cd12e29e87ff7c5a",
+      "toSide": "left"
+    },
+    {
+      "id": "6e960a6eba61e611",
+      "styleAttributes": {},
+      "fromNode": "cebe2948254f1ac0",
+      "fromSide": "right",
+      "toNode": "4e0c00612efaca25",
+      "toSide": "left"
+    },
+    {
+      "id": "dae84f4e8174aafb",
+      "styleAttributes": {},
+      "fromNode": "cd12e29e87ff7c5a",
+      "fromSide": "right",
+      "toNode": "3bb15c6356432108",
+      "toSide": "left"
+    },
+    {
+      "id": "2be970568a8dc9c6",
+      "styleAttributes": {},
+      "fromNode": "f824ad54f5675353",
+      "fromSide": "right",
+      "toNode": "b5fbad804e58b3f7",
+      "toSide": "left"
+    },
+    {
+      "id": "b1db224db7fc3e9f",
+      "styleAttributes": {},
+      "fromNode": "4e0c00612efaca25",
+      "fromSide": "right",
+      "toNode": "14f3545806aa144a",
+      "toSide": "left"
+    },
+    {
+      "id": "b61d151e178a1a8d",
+      "styleAttributes": {},
+      "fromNode": "4e0c00612efaca25",
+      "fromSide": "right",
+      "toNode": "bafdad4112fddc08",
+      "toSide": "left"
+    },
+    {
+      "id": "1b58218fd0d8fdb2",
+      "styleAttributes": {},
+      "fromNode": "4e0c00612efaca25",
+      "fromSide": "right",
+      "toNode": "d70c5d82b296709b",
+      "toSide": "left"
+    },
+    {
+      "id": "7aee8d678a2b2123",
+      "styleAttributes": {},
+      "fromNode": "14f3545806aa144a",
+      "fromSide": "right",
+      "toNode": "852ebc5a4b6a65e2",
+      "toSide": "left"
+    },
+    {
+      "id": "0338ca8235098499",
+      "styleAttributes": {},
+      "fromNode": "bafdad4112fddc08",
+      "fromSide": "right",
+      "toNode": "d29f73954409867a",
+      "toSide": "left"
+    },
+    {
+      "id": "ba4d7ee6eeb083a3",
+      "styleAttributes": {},
+      "fromNode": "d70c5d82b296709b",
+      "fromSide": "right",
+      "toNode": "10ecef3705a1a883",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
