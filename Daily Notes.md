@@ -1,3 +1,5 @@
+## 20-10-2024, Sunday
+- entry
 ## 19-10-2024, Saturday
 - ### Branding Sabatino
 	- #### Redy
