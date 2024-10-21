@@ -63,7 +63,6 @@
 
 ## 11-10-2024, Friday
 - ###### Los 3 principales pasos para el desarrollo de una metodología y gestión de un proyecto #metodosinvestigacion
-
 	- Planeación
 		1. Contacto con el cliente (brief)
 		2. Análisis (ideas)
@@ -82,7 +81,6 @@
 		2. Exportación
 
 - ###### Ideas para para ecommerce #tiendaonline
-
 	- Servicios de cuidado para mascotas
 	- Plataforma de venta de cursos y talleres
 	- Venta de juguetes hechos a mano
@@ -92,12 +90,10 @@
 	- Venta de decoración para el hogar
 
 ###### Ejercicios de para medios digitales #mediosdigitales
-
 - Edición de producto para RRSS
 
 ## 05-10-2024, Saturday
 - ###### Cronología de orden para temas de #Branding
-
 	- Análisis de marca de **Red Bull**, **Apple**, **Amazon**, **Microsoft**, **Samsung**, y **Toyota**
 	- Semiótica del diseño
 	- Leyes de la psicología **Gestlat**
@@ -111,7 +107,6 @@
 
 ## 01-10-2024, Tuesday
 - ###### Terminar de configurar la tienda de Shopify con los diferentes #plugins "Page builders" y Figma to Shopify
-
 	- PageFly Landing Page Builder
 	- Foxify Smart Page Builder (Figma to Shopify)
 	- Instant Section & Page Builder (Figma to Shopify)
