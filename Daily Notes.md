@@ -3,6 +3,7 @@
 - [Aplicación de sombra en isometría](https://www.youtube.com/watch?v=X1tL_I6DBLw)
 - [Sketch para diseñadores industriales](https://www.youtube.com/watch?v=ssJhxsjhYGo)
 - [Aplicación de sombras en isometría parte 2](https://www.youtube.com/watch?v=3BlN9w2DCpA&t=337s)
+
 ## 19-10-2024, Saturday
 - ### Branding Sabatino
 	- #### Redy
