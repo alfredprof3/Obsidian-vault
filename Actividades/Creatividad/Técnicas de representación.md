@@ -71,3 +71,20 @@ Proyección de elipses y óvalo a 1 punto de fuga
 
 ## Entregas alumnos
 
+1. Paola Jacqueline completo
+2. Victor completo
+3. Alondra completo
+4. Nicole Isabel completo
+5. Jimena completo
+6. Sofia completo
+7. Orlando incompleto
+8. Regina completo
+9. Alejandro completo
+10. Gael Jared completo
+11. Monse completo
+12. Michelle completo
+13. Miguel mauricio incompleto falta pirámide a punto de fuga
+14. Jos incompleto
+15. Diego completo
+16. Arath completo
+17. Ana Lucia pendiente

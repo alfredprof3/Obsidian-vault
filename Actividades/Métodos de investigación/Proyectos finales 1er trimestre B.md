@@ -183,3 +183,26 @@ Danna Fernanda Campos López - Desarrollo de identidad visual para "_Botaniux_" 
 <iframe src="https://www.behance.net/embed/project/189617081?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 <iframe src="https://www.behance.net/embed/project/201310063?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+## Lista de alumnos
+ANDUEZA HERRERA HIROMY DANAHI
+CAMPOS LOPEZ DANNA FERNANDA
+CASARRUBIAS DZUL SAUL ALEJANDRO
+DELGADO SILVA KAREN ALEJANDRA
+GARCIA VAZQUEZ TAMARA
+GUADARRAMA CASTRO ANDREA VANESA
+HERMIDA BOJORQUEZ ELIZABETH
+ISLAS FRANCO DONNOVAN
+LITZOW DIAZ YETZIRAH MIHAEL 
+LOPEZ BARRIOS KENIA ALEXIA
+LOPEZ HERNANDEZ JONATHAN
+MARTIN CHI DIANA VERONICA - x
+MIRAMONTES CORTES PAMELA
+MORALES MANZANAREZ ANA CAMILA
+ORTEGA POZOS KARLA ANDREA - -
+SANDOVAL ESCAMILLA FERNANDA
+TAGLE BLANQUETO JORDAN ALEXANDER
+VACA GONZALEZ ANGELICA ALEJANDRA
+YAÑEZ FAUSTINO NARDA ABIGAIL
