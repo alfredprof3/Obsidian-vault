@@ -88,7 +88,7 @@ var PreloadOptions = /* @__PURE__ */ ((PreloadOptions2) => {
   PreloadOptions2[PreloadOptions2["Placeholder_ClickToLoad"] = 2] = "Placeholder_ClickToLoad";
   return PreloadOptions2;
 })(PreloadOptions || {});
-var supportedWebsites = ["Twitter/X", "Imgur", "Reddit", "CodePen", "Google Docs", "SoundCloud", "Spotify", "Steam", "TikTok"];
+var supportedWebsites = ["Twitter/X", "Imgur", "Reddit", "CodePen", "Google Docs", "SoundCloud", "Spotify", "Steam", "TikTok", "Instagram"];
 var DEFAULT_SETTINGS = {
   darkMode: true,
   preloadOption: 1 /* Placeholder */,
@@ -637,15 +637,14 @@ var RedditEmbed = class extends EmbedBase {
     try {
       data = JSON.parse(e.data);
     } catch (e2) {
-      console.log("Error parsing reddit message. Error: " + e2);
+      console.error("Error parsing reddit message. Error: " + e2);
       return;
     }
     if (data.type !== "resize.embed") {
-      console.log("Reddit unknown message: " + data.type);
+      console.warn("Reddit unknown message: " + data.type);
       return;
     }
     const iframes = document.querySelectorAll(".reddit-embed > iframe");
-    console.log("Size: " + iframes.length);
     for (let i = 0; i < iframes.length; i++) {
       const iframe = iframes[i];
       if (iframe.contentWindow == e.source) {
@@ -827,7 +826,6 @@ var DefaultFallbackEmbed = class extends EmbedBase {
   async linkTitle(url) {
     try {
       const response = await (0, import_obsidian5.requestUrl)({ url, method: "GET" });
-      console.log(response);
       if (!response.headers["content-type"].includes("text/html"))
         return this.plugin.settings.fallbackDefaultLink;
       const html = response.text;
@@ -950,6 +948,46 @@ var SoundCloudEmbed = class extends EmbedBase {
 
 // src/embeds/embedManager.ts
 var import_obsidian6 = require("obsidian");
+
+// src/embeds/instagram.ts
+var InstagramEmbed = class extends EmbedBase {
+  constructor() {
+    super(...arguments);
+    this.name = "Instagram";
+    this.regex = new RegExp(/https:\/\/(?:www\.)?instagram\.com\/(?:(?:(?:[\w._(?:[\w._]+\/)?(?:p|reel)\/([\w\-_]+))|(?:[\w._(?:[\w._]+))/);
+  }
+  createEmbed(url) {
+    const regexMatch = url.match(this.regex);
+    if (regexMatch === null)
+      return this.onErrorCreatingEmbed(url);
+    const iframe = createEl("iframe");
+    const isProfile = regexMatch[1] === void 0;
+    if (isProfile) {
+      const profileMatch = url.match(/https:\/\/(?:www\.)?instagram\.com\/([\w._(?:[\w._]+)/);
+      if (profileMatch === null)
+        return this.onErrorCreatingEmbed(url);
+      iframe.src = `https://instagram.com/${profileMatch[1]}/embed/`;
+      iframe.classList.add("instagram-profile");
+    } else {
+      iframe.src = `https://instagram.com/reel/${regexMatch[1]}/embed/`;
+    }
+    iframe.classList.add(this.autoEmbedCssClass);
+    iframe.dataset.containerClass = "instagram-embed";
+    iframe.setAttribute("scrolling", "no");
+    function resizeEmbed() {
+      if (isProfile) {
+        iframe.style.height = 0.7 * iframe.offsetWidth + 200 + "px";
+      } else {
+        iframe.style.height = 1.25 * iframe.offsetWidth + 208 + "px";
+      }
+    }
+    resizeEmbed();
+    new ResizeObserver(resizeEmbed).observe(iframe);
+    return iframe;
+  }
+};
+
+// src/embeds/embedManager.ts
 var EmbedManager = class {
   constructor() {
   }
@@ -967,7 +1005,8 @@ var EmbedManager = class {
       new ImgurEmbed(plugin),
       new GoogleDocsEmbed(plugin),
       new TikTokEmbed(plugin),
-      new SoundCloudEmbed(plugin)
+      new SoundCloudEmbed(plugin),
+      new InstagramEmbed(plugin)
     ];
     this.ignoredDomains = [
       // Ignore embeds for youtube and twtiter
@@ -1230,3 +1269,5 @@ var AutoEmbedPlugin = class extends import_obsidian8.Plugin {
     this.registerEditorSuggest(new SuggestEmbed(this));
   }
 };
+
+/* nosourcemap */
