@@ -1,5 +1,3 @@
-## 22-10-2024, Tuesday
-- entry
 ## 21-10-2024, Monday
 - [Dibujar una esfera en isométrica paso a paso](https://dibujafacil.com/como-dibujar/como-dibujar-una-esfera-en-perspectiva-isometrica-paso-a-paso/)
 - [Aplicación de sombra en isometría](https://www.youtube.com/watch?v=X1tL_I6DBLw)
