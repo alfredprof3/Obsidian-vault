@@ -88,3 +88,19 @@ Proyección de elipses y óvalo a 1 punto de fuga
 15. Diego completo
 16. Arath completo
 17. Ana Lucia pendiente
+
+Tarea 2: 2 esferas en isométrico y simples o perspectiva
+1. Nicole
+2. Sofia
+3. Alondra
+4. Regina
+5. Paola Jacqueline
+6. Orlando incompleto
+7. Mauricio incompleto
+8. Angel incompleto
+9. Alejandro
+10. Jared
+11. Monse
+12. Michelle
+13. Arath
+14. Victor
