@@ -1,5 +1,10 @@
 ## 23-10-2024, Wednesday
-- 
+- Idea de negocio para estudio de Diseño con alumnos
+	- Naming: InCrea - Crecimiento Creativo.
+	- Descripción: Agencia de diseño en Cancún que apoya el talento de diseñadores estudiantes a través de proyectos reales con emprendedores-emprendimientos, empresas y PyMES.
+	- Servicios: diseño de cartel, diseño de empaque, diseño de logotipo, diseño de catálogo para producto, diseño de menú para restaurantes, diseño de moda, ilustración, manualidades (handcraft), diseño de producto (diseño industrial), animación 2D - 3D, diseño digital, fotografía y vídeo.
+	- ¿Qué hacen? Ofrecemos soluciones a necesidades de emprendedores y empresas en dónde requieran de un cartel, anuncio, video publicitario, fotografía de producto o cual solución a un problema en la parte gráfica y de comunicación visual.
+	- ¿Cómo lo hacen? Una de las formas de dar solución a las solicitudes y necesidades de los socios es a través de colaboraciones entre otros diseñadores gráficos, industriales, moda, fotográfos, creadores de contenido, filmmakers y artistas.
 ## 21-10-2024, Monday
 - [Dibujar una esfera en isométrica paso a paso](https://dibujafacil.com/como-dibujar/como-dibujar-una-esfera-en-perspectiva-isometrica-paso-a-paso/)
 - [Aplicación de sombra en isometría](https://www.youtube.com/watch?v=X1tL_I6DBLw)
@@ -82,7 +87,11 @@
 		1. Adaptaciones para impresión o digital
 		2. Exportación
 
-- ###### Ideas para para ecommerce #tiendaonline
+- ###### Cronología y orden para impartir temas de #tiendaonline
+	1. Leyes del diseño UX / UI.
+	2. Aplicaciones del diseño en la vida real (sitios web, aplicaciones, desarrollo y optimización de producto).
+	3. Primera fase para el desarrollo de tienda en línea.
+		1. Materiales a necesitar para esta primera fase: Descripción de la marca, descripción de los productos, colores de la marca, tipografía, imágenes y cuentas de figma, penpot, shopify y wordpress, así como pasarelas de pago.
 	- Servicios de cuidado para mascotas
 	- Plataforma de venta de cursos y talleres
 	- Venta de juguetes hechos a mano
@@ -95,7 +104,7 @@
 - Edición de producto para RRSS
 
 ## 05-10-2024, Saturday
-- ###### Cronología de orden para temas de #Branding
+- ###### Cronología y orden para impartir temas de #Branding
 	- Análisis de marca de **Red Bull**, **Apple**, **Amazon**, **Microsoft**, **Samsung**, y **Toyota**
 	- Semiótica del diseño
 	- Leyes de la psicología **Gestlat**
