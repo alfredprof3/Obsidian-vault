@@ -71,3 +71,36 @@ Proyección de elipses y óvalo a 1 punto de fuga
 
 ## Entregas alumnos
 
+1. Paola Jacqueline completo
+2. Victor completo
+3. Alondra completo
+4. Nicole Isabel completo
+5. Jimena completo
+6. Sofia completo
+7. Orlando incompleto
+8. Regina completo
+9. Alejandro completo
+10. Gael Jared completo
+11. Monse completo
+12. Michelle completo
+13. Miguel mauricio incompleto falta pirámide a punto de fuga
+14. Jos incompleto
+15. Diego completo
+16. Arath completo
+17. Ana Lucia pendiente
+
+Tarea 2: 2 esferas en isométrico y simples o perspectiva
+1. Nicole
+2. Sofia
+3. Alondra
+4. Regina
+5. Paola Jacqueline
+6. Orlando incompleto
+7. Mauricio incompleto
+8. Angel incompleto
+9. Alejandro
+10. Jared
+11. Monse
+12. Michelle
+13. Arath
+14. Victor

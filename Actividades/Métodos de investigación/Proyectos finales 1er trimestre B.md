@@ -6,7 +6,7 @@ Saul Casarrubias - Creación de contenido para barbería LeveUp Studio
 Elizabeth Hermida - Desarrollar marca de ropa, RRSS y blog (página web)
 Karla Andrea Ortega - Ilustración oléo y playera sublimada
 Fernanda Sandoval Escamilla - Venta de comics sobre pedido
-Pamela Miramontes Cortes - Ilustración digital e impresa
+Pamela Miramontes Cortes - Ilustración aplicada en agendas / libretas
 Jonathan Lopéz Hernandez - Fotografía de modelo (2) y producto para salida digital
 Martin Chi Diana Verónica - abuelita va a confeccionar el vestido, diseño del vestido; puede ser un patrón, una textura o diseño personalizado + fotografía para RRSS
 Ana Camila Morales Manzanares - Agenda personalizada desde 0 + fotografía para RRSS + página web
@@ -183,3 +183,26 @@ Danna Fernanda Campos López - Desarrollo de identidad visual para "_Botaniux_" 
 <iframe src="https://www.behance.net/embed/project/189617081?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
 
 <iframe src="https://www.behance.net/embed/project/201310063?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+
+
+
+## Lista de alumnos
+ANDUEZA HERRERA HIROMY DANAHI
+CAMPOS LOPEZ DANNA FERNANDA
+CASARRUBIAS DZUL SAUL ALEJANDRO
+DELGADO SILVA KAREN ALEJANDRA
+GARCIA VAZQUEZ TAMARA
+GUADARRAMA CASTRO ANDREA VANESA
+HERMIDA BOJORQUEZ ELIZABETH
+ISLAS FRANCO DONNOVAN
+LITZOW DIAZ YETZIRAH MIHAEL 
+LOPEZ BARRIOS KENIA ALEXIA
+LOPEZ HERNANDEZ JONATHAN
+MARTIN CHI DIANA VERONICA - x
+MIRAMONTES CORTES PAMELA
+MORALES MANZANAREZ ANA CAMILA
+ORTEGA POZOS KARLA ANDREA - -
+SANDOVAL ESCAMILLA FERNANDA
+TAGLE BLANQUETO JORDAN ALEXANDER
+VACA GONZALEZ ANGELICA ALEJANDRA
+YAÑEZ FAUSTINO NARDA ABIGAIL
