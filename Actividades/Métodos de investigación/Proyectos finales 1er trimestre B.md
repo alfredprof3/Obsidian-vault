@@ -6,7 +6,7 @@ Saul Casarrubias - Creación de contenido para barbería LeveUp Studio
 Elizabeth Hermida - Desarrollar marca de ropa, RRSS y blog (página web)
 Karla Andrea Ortega - Ilustración oléo y playera sublimada
 Fernanda Sandoval Escamilla - Venta de comics sobre pedido
-Pamela Miramontes Cortes - Ilustración digital e impresa
+Pamela Miramontes Cortes - Ilustración aplicada en agendas / libretas
 Jonathan Lopéz Hernandez - Fotografía de modelo (2) y producto para salida digital
 Martin Chi Diana Verónica - abuelita va a confeccionar el vestido, diseño del vestido; puede ser un patrón, una textura o diseño personalizado + fotografía para RRSS
 Ana Camila Morales Manzanares - Agenda personalizada desde 0 + fotografía para RRSS + página web
