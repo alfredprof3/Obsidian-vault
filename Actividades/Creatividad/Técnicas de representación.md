@@ -1,4 +1,4 @@
-# Actividad 1: representación básica de figuras geométricas
+999# Actividad 1: representación básica de figuras geométricas
 
 Proyectar en isométrico y a 1, 2 y 3 puntos de fuga, las siguientes figuras geométricas básicas.
 
