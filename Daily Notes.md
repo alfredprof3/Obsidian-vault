@@ -1,32 +1,22 @@
+## 24-10-2024, Thursday
+- entry
 ## 23-10-2024, Wednesday
-- Idea de negocio para estudio de Diseño con alumnos
+###### Mielito
+
+
+- ###### Idea de negocio para estudio de Diseño con alumnos
 	- Naming: InCrea - Crecimiento Creativo.
 	- Descripción: Agencia de diseño en Cancún que apoya el talento de diseñadores estudiantes a través de proyectos reales con emprendedores-emprendimientos, empresas y PyMES.
 	- Servicios: diseño de cartel, diseño de empaque, diseño de logotipo, diseño de catálogo para producto, diseño de menú para restaurantes, diseño de moda, ilustración, manualidades (handcraft), diseño de producto (diseño industrial), animación 2D - 3D, diseño digital, fotografía y vídeo.
 	- ¿Qué hacen? Ofrecemos soluciones a necesidades de emprendedores y empresas en dónde requieran de un cartel, anuncio, video publicitario, fotografía de producto o cual solución a un problema en la parte gráfica y de comunicación visual.
 	- ¿Cómo lo hacen? Una de las formas de dar solución a las solicitudes y necesidades de los socios es a través de colaboraciones entre otros diseñadores gráficos, industriales, moda, fotográfos, creadores de contenido, filmmakers y artistas.
+
 ## 21-10-2024, Monday
 - [Dibujar una esfera en isométrica paso a paso](https://dibujafacil.com/como-dibujar/como-dibujar-una-esfera-en-perspectiva-isometrica-paso-a-paso/)
 - [Aplicación de sombra en isometría](https://www.youtube.com/watch?v=X1tL_I6DBLw)
 - [Sketch para diseñadores industriales](https://www.youtube.com/watch?v=ssJhxsjhYGo)
 - [Aplicación de sombras en isometría parte 2](https://www.youtube.com/watch?v=3BlN9w2DCpA&t=337s)
 
-## 19-10-2024, Saturday
-- ### Branding Sabatino
-	- #### Redy
-		- Descripción:
-		- Valores de marca:
-		- Público objetivo:
-	- #### Sergio
-		- Descripción
-		- Valores de marca:
-		- Público objetivo:
-	- #### Fany 
-		- Descripción:
-		- Valores de marca:
-		- Público objetivo:
-## 18-10-2024, Friday
-- Mongge.com para hacer tutoriales de dibujos
 ## 16-10-2024, Wednesday
 - ###### Creatividad: hacer 2 cubos-pirámide-cubo rectángulo-esferas en isométricos y 2 cubos- pirámide-cubo rectángulo-esferas a punto de fuga.
 	- Cubo: 2 isométricos y 2 a punto de fuga
@@ -99,9 +89,6 @@
 	- Venta de plantas en línea
 	- Venta de productos de maquillaje natural
 	- Venta de decoración para el hogar
-
-###### Ejercicios de para medios digitales #mediosdigitales
-- Edición de producto para RRSS
 
 ## 05-10-2024, Saturday
 - ###### Cronología y orden para impartir temas de #Branding
