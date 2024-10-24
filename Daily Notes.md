@@ -2,7 +2,18 @@
 - entry
 ## 23-10-2024, Wednesday
 ###### Mielito
+Miel orgánica y sin filtrar 100% natural, extraída directamente de los paneles de las abejas. También contamos con una amplia variedad de productos elaborados a base de la miel.
 
+La miel es importante porque aporta diferentes nutrientes a nuestro cuerpo, además de ser un endulzante natural que no tienen un proceso artificial, lo cual afecta mucho a la salud humana.
+
+Algunos de los productos elaborados con base de la miel son:
+1. Cera de abeja
+2. Própoleos
+3. Própoleos
+4. Jalea real
+5. Cremas, balsamos y jabones artesanales
+6. Mieles gourmet, miel con canela o frutos secos
+7. Dulces
 
 - ###### Idea de negocio para estudio de Diseño con alumnos
 	- Naming: InCrea - Crecimiento Creativo.
