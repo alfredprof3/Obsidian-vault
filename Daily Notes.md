@@ -1,3 +1,5 @@
+## 24-10-2024, Thursday
+- entry
 ## 23-10-2024, Wednesday
 - Idea de negocio para estudio de Diseño con alumnos
 	- Naming: InCrea - Crecimiento Creativo.
